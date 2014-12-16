@@ -1,0 +1,41 @@
+﻿<gedx>
+	<header>
+		<filecreation>
+			<date day="12" month="7" year="2011"></date>
+		</filecreation>
+		<lastchanged>
+			<date day="" month="" year=""></date>
+		</lastchanged>
+		<product>
+			<productid>GEDX</productid>
+			<version>1.0</version>
+			<name>GEDX</name>
+			<supplier>
+				<link target="Contact" ref="0815"></link>
+			</supplier>
+		</product>
+		<copyright>(C) 2007 RudiSoft</copyright>
+	</header>
+	<persons>
+	</persons>
+	<attributes></attributes>
+	<events>
+	</events>
+	<infos>
+	</infos>
+	<docs></docs>
+	<relationships>
+	</relationships>
+	<contacts>
+		<contact id="0815" type="person">
+			<name>Udo Lang</name>
+			<address>
+				<street>Büdericher Str.35</street>
+				<postalcode>41564</postalcode>
+				<city>Kaarst</city>
+				<state>NRW</state>
+				<country>Germany</country>
+			</address>
+		</contact>
+	</contacts>
+</gedx>

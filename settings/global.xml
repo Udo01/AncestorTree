@@ -1,0 +1,877 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<pages>
+		<page name="global">
+			<pageItem name="appName">
+				<item lang="en">Ancestor App</item>
+				<item lang="de">Stammbaum online</item>
+			</pageItem>
+			<pageItem name="home">
+				<item lang="en">home</item>
+				<item lang="de">home</item>
+			</pageItem>
+			<pageItem name="contact">
+				<item lang="en">contact</item>
+				<item lang="de">Kontakt</item>
+			</pageItem>
+			<pageItem name="settings">
+				<item lang="en">settings</item>
+				<item lang="de">Einstellungen</item>
+			</pageItem>
+			<pageItem name="properties">
+				<item lang="en">properties</item>
+				<item lang="de">Eigenschaften</item>
+			</pageItem>
+			<pageItem name="list">
+				<item lang="en">list</item>
+				<item lang="de">Liste</item>
+			</pageItem>
+			<pageItem name="ancestor">
+				<item lang="en">ancestor</item>
+				<item lang="de">Vorfahren</item>
+			</pageItem>
+			<pageItem name="descendant">
+				<item lang="en">descendant</item>
+				<item lang="de">Nachfahren</item>
+			</pageItem>
+			<pageItem name="family">
+				<item lang="en">family</item>
+				<item lang="de">Familie</item>
+			</pageItem>
+			<pageItem name="person">
+				<item lang="en">person</item>
+				<item lang="de">Person</item>
+			</pageItem>
+			<pageItem name="pleaseSelectPerson">
+				<item lang="en">Please select a person!</item>
+				<item lang="de">Bitte eine Person auswählen!</item>
+			</pageItem>
+			<pageItem name="save">
+				<item lang="en">save</item>
+				<item lang="de">speichern</item>
+			</pageItem>
+			<pageItem name="saved">
+				<item lang="en">saved</item>
+				<item lang="de">gepeichert</item>
+			</pageItem>
+			<pageItem name="remove">
+				<item lang="en">delete</item>
+				<item lang="de">löschen</item>
+			</pageItem>
+			<pageItem name="ok">
+				<item lang="en">OK</item>
+				<item lang="de">OK</item>
+			</pageItem>
+			<pageItem name="select">
+				<item lang="en">select</item>
+				<item lang="de">auswählen</item>
+			</pageItem>
+			<pageItem name="back">
+				<item lang="en">back</item>
+				<item lang="de">zurück</item>
+			</pageItem>
+			<pageItem name="cancel">
+				<item lang="en">cancel</item>
+				<item lang="de">abbrechen</item>
+			</pageItem>
+			<pageItem name="close">
+				<item lang="en">close</item>
+				<item lang="de">schließen</item>
+			</pageItem>
+			<pageItem name="delete">
+				<item lang="en">delete</item>
+				<item lang="de">löschen</item>
+			</pageItem>
+			<pageItem name="nameGvn">
+				<item lang="en">first name</item>
+				<item lang="de">Vorname</item>
+			</pageItem>
+			<pageItem name="nameSurn">
+				<item lang="en">name</item>
+				<item lang="de">Name</item>
+			</pageItem>
+			<pageItem name="nameMaid">
+				<item lang="en">maiden name</item>
+				<item lang="de">Geburtsname</item>
+			</pageItem>
+			<pageItem name="birth">
+				<item lang="en">birth</item>
+				<item lang="de">Geburt</item>
+			</pageItem>
+			<pageItem name="day">
+				<item lang="en">day</item>
+				<item lang="de">Tag</item>
+			</pageItem>
+			<pageItem name="month">
+				<item lang="en">month</item>
+				<item lang="de">Monat</item>
+			</pageItem>
+			<pageItem name="year">
+				<item lang="en">year</item>
+				<item lang="de">Jahr</item>
+			</pageItem>
+			<pageItem name="street">
+				<item lang="en">street</item>
+				<item lang="de">Strasse</item>
+			</pageItem>
+			<pageItem name="zip">
+				<item lang="en">zip</item>
+				<item lang="de">PLZ</item>
+			</pageItem>
+			<pageItem name="city">
+				<item lang="en">city</item>
+				<item lang="de">Ort</item>
+			</pageItem>
+			<pageItem name="country">
+				<item lang="en">country</item>
+				<item lang="de">Land</item>
+			</pageItem>
+			<pageItem name="note">
+				<item lang="en">note</item>
+				<item lang="de">Bemerkung</item>
+			</pageItem>
+			<pageItem name="gender">
+				<item lang="en">gender</item>
+				<item lang="de">Geschlecht</item>
+			</pageItem>
+			<pageItem name="male">
+				<item lang="en">male</item>
+				<item lang="de">männlich</item>
+			</pageItem>
+			<pageItem name="female">
+				<item lang="en">female</item>
+				<item lang="de">weiblich</item>
+			</pageItem>
+			<pageItem name="father">
+				<item lang="en">father</item>
+				<item lang="de">Vater</item>
+			</pageItem>
+			<pageItem name="mother">
+				<item lang="en">mother</item>
+				<item lang="de">Mutter</item>
+			</pageItem>
+			<pageItem name="child">
+				<item lang="en">child</item>
+				<item lang="de">Kind</item>
+			</pageItem>
+			<pageItem name="daughter">
+				<item lang="en">daughter</item>
+				<item lang="de">Tochter</item>
+			</pageItem>
+			<pageItem name="son">
+				<item lang="en">son</item>
+				<item lang="de">Sohn</item>
+			</pageItem>
+			<pageItem name="partner">
+				<item lang="en">partner</item>
+				<item lang="de">Partner</item>
+			</pageItem>
+			<pageItem name="addFather">
+				<item lang="en">add father</item>
+				<item lang="de">Vater zufügen</item>
+			</pageItem>
+			<pageItem name="addMother">
+				<item lang="en">add mother</item>
+				<item lang="de">Mutter zufügen</item>
+			</pageItem>
+			<pageItem name="addSon">
+				<item lang="en">add son</item>
+				<item lang="de">Sohn zufügen</item>
+			</pageItem>
+			<pageItem name="addDaughter">
+				<item lang="en">add daughter</item>
+				<item lang="de">Tochter zufügen</item>
+			</pageItem>
+			<pageItem name="print">
+				<item lang="en">print</item>
+				<item lang="de">drucken</item>
+			</pageItem>
+			<pageItem name="of">
+				<item lang="en">of</item>
+				<item lang="de">von</item>
+			</pageItem>
+			<pageItem name="thumbnail">
+				<item lang="en">thumbnail</item>
+				<item lang="de">thumbnail</item>
+			</pageItem>
+		</page>
+		<page name="home">
+			<pageItem name="header">
+				<item lang="en">Ancestor app</item>
+				<item lang="de">Ahnen App</item>
+			</pageItem>
+			<pageItem name="data">
+				<item lang="en">Data</item>
+				<item lang="de">Daten</item>
+			</pageItem>
+			<pageItem name="loadPrivateData">
+				<item lang="en">load (private)</item>
+				<item lang="de">laden (eigene)</item>
+			</pageItem>
+			<pageItem name="loadPublicData">
+				<item lang="en">load (public)</item>
+				<item lang="de">laden (öffentliche)</item>
+			</pageItem>
+			<pageItem name="newData">
+				<item lang="en">new</item>
+				<item lang="de">neu</item>
+			</pageItem>
+			<pageItem name="newProjectName">
+				<item lang="en">new project</item>
+				<item lang="de">neues Projekt</item>
+			</pageItem>
+			<pageItem name="saveData">
+				<item lang="en">save</item>
+				<item lang="de">speichern</item>
+			</pageItem>
+			<pageItem name="saveDataAs">
+				<item lang="en">save as...</item>
+				<item lang="de">speichern unter...</item>
+			</pageItem>
+			<pageItem name="removePublicData">
+				<item lang="en">delete</item>
+				<item lang="de">löschen</item>
+			</pageItem>
+			<pageItem name="removePrivateData">
+				<item lang="en">delete(private) </item>
+				<item lang="de">löschen(privat)</item>
+			</pageItem>
+			<pageItem name="importGedcom">
+				<item lang="en">import Gedcom</item>
+				<item lang="de">Gedcom importieren</item>
+			</pageItem>
+			<pageItem name="xmlData">
+				<item lang="en">XML-Data</item>
+				<item lang="de">XML-Daten</item>
+			</pageItem>
+			<pageItem name="login">
+				<item lang="en">login</item>
+				<item lang="de">anmelden</item>
+			</pageItem>
+			<pageItem name="logout">
+				<item lang="en">logout</item>
+				<item lang="de">abmelden</item>
+			</pageItem>
+			<pageItem name="guest">
+				<item lang="en">guest</item>
+				<item lang="de">Gast</item>
+			</pageItem>
+		</page>
+		<page name="saveDataAsDlg">
+			<pageItem name="header">
+				<item lang="en">Save data as</item>
+				<item lang="de">Daten speichern unter</item>
+			</pageItem>
+			<pageItem name="dataContainerName">
+				<item lang="en">name</item>
+				<item lang="de">Name</item>
+			</pageItem>
+			<pageItem name="dataContainerDesc">
+				<item lang="en">description</item>
+				<item lang="de">Beschreibung</item>
+			</pageItem>
+			<pageItem name="dataContainerAccess">
+				<item lang="en">access</item>
+				<item lang="de">Zugang</item>
+			</pageItem>
+			<pageItem name="publicAccess">
+				<item lang="en">public</item>
+				<item lang="de">öffentlich</item>
+			</pageItem>
+			<pageItem name="privateAccess">
+				<item lang="en">private</item>
+				<item lang="de">privat</item>
+			</pageItem>
+		</page>
+		<page name="loadDataContainerDlg">
+			<pageItem name="header">
+				<item lang="en">Load</item>
+				<item lang="de">Laden</item>
+			</pageItem>
+			<pageItem name="headline">
+				<item lang="en">Load data</item>
+				<item lang="de">Daten laden</item>
+			</pageItem>
+			<pageItem name="noData">
+				<item lang="en">No data available!</item>
+				<item lang="de">Keine Daten vorhanden!</item>
+			</pageItem>
+		</page>
+
+		<page name="importGedcomDlg">
+			<pageItem name="header">
+				<item lang="en">import Gedcom</item>
+				<item lang="de">Gedcom importieren</item>
+			</pageItem>
+			<pageItem name="import">
+				<item lang="en">import</item>
+				<item lang="de">importieren</item>
+			</pageItem>
+			<pageItem name="couldNotImport">
+				<item lang="en">could not import data</item>
+				<item lang="de">Daten konnten nicht importiert werden.</item>
+			</pageItem>
+		</page>
+		<page name="removeDataDlg">
+			<pageItem name="header">
+				<item lang="en">Remove</item>
+				<item lang="de">Löschen</item>
+			</pageItem>
+			<pageItem name="noData">
+				<item lang="en">No data available!</item>
+				<item lang="de">Keine Daten vorhanden!</item>
+			</pageItem>
+		</page>
+		<page name="showXmlDataDlg">
+			<pageItem name="header">
+				<item lang="en">XML-Data</item>
+				<item lang="de">XML Daten</item>
+			</pageItem>
+			<pageItem name="updateData">
+				<item lang="en">update data</item>
+				<item lang="de">Daten übernehmen</item>
+			</pageItem>
+		</page>
+		<page name="list">
+			<pageItem name="newPerson">
+				<item lang="en">new person...</item>
+				<item lang="de">neue Person...</item>
+			</pageItem>
+		</page>
+		<page name="newUnboundPersonDlg">
+			<pageItem name="header">
+				<item lang="en">add person</item>
+				<item lang="de">neue Person</item>
+			</pageItem>
+			<pageItem name="newPerson">
+				<item lang="en">new person</item>
+				<item lang="de">Neue Person</item>
+			</pageItem>
+			<pageItem name="addPerson">
+				<item lang="en">add person</item>
+				<item lang="de">Person zufügen</item>
+			</pageItem>
+		</page>
+		<page name="treeNodePopup">
+			<pageItem name="chooseAction">
+				<item lang="en">choose an action</item>
+				<item lang="de">Aktion auswählen</item>
+			</pageItem>
+			<pageItem name="setRoot">
+				<item lang="en">set as root</item>
+				<item lang="de">als Startperson festlegen</item>
+			</pageItem>
+			<pageItem name="editPerson">
+				<item lang="en">edit</item>
+				<item lang="de">bearbeiten</item>
+			</pageItem>
+		</page>
+		<page name="treeConfigDlg">
+			<pageItem name="title">
+				<item lang="en">pedigree</item>
+				<item lang="de">Baum</item>
+			</pageItem>
+			<pageItem name="orientation">
+				<item lang="en">orientation</item>
+				<item lang="de">Ausrichtung</item>
+			</pageItem>
+			<pageItem name="settings">
+				<item lang="en">settings</item>
+				<item lang="de">Einstellungen</item>
+			</pageItem>
+			<pageItem name="generations">
+				<item lang="en">generations</item>
+				<item lang="de">Generationen</item>
+			</pageItem>
+			<pageItem name="box">
+				<item lang="en">box</item>
+				<item lang="de">Box</item>
+			</pageItem>
+			<pageItem name="width">
+				<item lang="en">width</item>
+				<item lang="de">Breite</item>
+			</pageItem>
+			<pageItem name="height">
+				<item lang="en">height</item>
+				<item lang="de">Höhe</item>
+			</pageItem>
+			<pageItem name="gapX">
+				<item lang="en">gap X</item>
+				<item lang="de">Abstand X</item>
+			</pageItem>
+			<pageItem name="gapY">
+				<item lang="en">gap Y</item>
+				<item lang="de">Abstand Y</item>
+			</pageItem>
+		</page>
+		<page name="treePrintDlg">
+			<pageItem name="header">
+				<item lang="en">print</item>
+				<item lang="de">Drucken</item>
+			</pageItem>
+		</page>
+		<page name="family">
+			<pageItem name="select">
+				<item lang="en">select</item>
+				<item lang="de">wählen</item>
+			</pageItem>
+			<pageItem name="noPersonAvailable">
+				<item lang="en">no person available</item>
+				<item lang="de">keine Personen vorhanden</item>
+			</pageItem>
+		</page>
+		<page name="removePersonDlg">
+			<pageItem name="header">
+				<item lang="en">remove person</item>
+				<item lang="de">Person löschen</item>
+			</pageItem>
+			<pageItem name="attention">
+				<item lang="en">attention!</item>
+				<item lang="de">Achtung!</item>
+			</pageItem>
+			<pageItem name="removePerson">
+				<item lang="en">remove person</item>
+				<item lang="de">Person löschen</item>
+			</pageItem>
+			<pageItem name="removePersonFamily">
+				<item lang="en">remove person from family</item>
+				<item lang="de">Person aus Familie löschen</item>
+			</pageItem>
+		</page>
+		<page name="addPersonDlg">
+			<pageItem name="header">
+				<item lang="en">new person</item>
+				<item lang="de">neue Person</item>
+			</pageItem>
+			<pageItem name="newPerson">
+				<item lang="en">new person</item>
+				<item lang="de">neue Person</item>
+			</pageItem>
+			<pageItem name="of">
+				<item lang="en">of</item>
+				<item lang="de">von</item>
+			</pageItem>
+			<pageItem name="addPerson">
+				<item lang="en">add person</item>
+				<item lang="de">Person zufügen</item>
+			</pageItem>
+		</page>
+		<page name="addExistPersonDlg">
+			<pageItem name="header">
+				<item lang="en">select person</item>
+				<item lang="de">Person auswählen</item>
+			</pageItem>
+			<pageItem name="selectPerson">
+				<item lang="en">select person</item>
+				<item lang="de">Person auswählen</item>
+			</pageItem>
+			<pageItem name="of">
+				<item lang="en">of</item>
+				<item lang="de">von</item>
+			</pageItem>
+			<pageItem name="addPerson">
+				<item lang="en">add person</item>
+				<item lang="de">Person zufügen</item>
+			</pageItem>
+		</page>
+		<page name="person">
+			<pageItem name="events">
+				<item lang="en">events</item>
+				<item lang="de">Zeitinformation</item>
+			</pageItem>
+			<pageItem name="infos">
+				<item lang="en">infos</item>
+				<item lang="de">Information</item>
+			</pageItem>
+			<pageItem name="docs">
+				<item lang="en">documents</item>
+				<item lang="de">Dokumente</item>
+			</pageItem>
+			<pageItem name="newTimeInfo">
+				<item lang="en">new time info</item>
+				<item lang="de">neue Zeitinformation</item>
+			</pageItem>
+			<pageItem name="newInfo">
+				<item lang="en">new info</item>
+				<item lang="de">neue Information</item>
+			</pageItem>
+			<pageItem name="newDoc">
+				<item lang="en">new document</item>
+				<item lang="de">neues Dokument</item>
+			</pageItem>
+			<pageItem name="docTitle">
+				<item lang="en">title</item>
+				<item lang="de">Titel</item>
+			</pageItem>
+			<pageItem name="docResource">
+				<item lang="en">resource</item>
+				<item lang="de">Resource</item>
+			</pageItem>
+		</page>
+		<page name="newEventDlg">
+			<pageItem name="header">
+				<item lang="en">new time info</item>
+				<item lang="de">neue Zeitinformation</item>
+			</pageItem>
+			<pageItem name="selectType">
+				<item lang="en">select type</item>
+				<item lang="de">Typ wählen</item>
+			</pageItem>
+		</page>
+		<page name="newInfoDlg">
+			<pageItem name="header">
+				<item lang="en">new info</item>
+				<item lang="de">neue Information</item>
+			</pageItem>
+			<pageItem name="selectType">
+				<item lang="en">select type</item>
+				<item lang="de">Typ wählen</item>
+			</pageItem>
+		</page>
+		<page name="newDocDlg">
+			<pageItem name="header">
+				<item lang="en">new document</item>
+				<item lang="de">neues Dokument</item>
+			</pageItem>
+			<pageItem name="selectType">
+				<item lang="en">select type</item>
+				<item lang="de">Typ wählen</item>
+			</pageItem>
+		</page>
+	</pages>
+	<types>
+		<eventTypes>
+			<eventType name="birth">
+				<type lang="en">
+					<name>birth</name>
+					<description>birth of the person</description>
+				</type>
+				<type lang="de">
+					<name>Geburt</name>
+					<description>Geburt der Person</description>
+				</type>
+			</eventType>
+			<eventType name="baptism">
+				<type lang="en">
+					<name>baptism</name>
+					<description>A common christian baptism</description>
+				</type>
+				<type lang="de">
+					<name>Taufe</name>
+					<description>Christliche Taufe</description>
+				</type>
+			</eventType>
+			<eventType name="adoption">
+				<type lang="en">
+					<name>adoption</name>
+					<description>adoption</description>
+				</type>
+				<type lang="de">
+					<name>Adoption</name>
+					<description>Adoption</description>
+				</type>
+			</eventType>
+			<eventType name="confirmation">
+				<type lang="en">
+					<name>confirmation</name>
+					<description>confirmation</description>
+				</type>
+				<type lang="de">
+					<name>Konfirmation</name>
+					<description>Konfirmation/Kommunion</description>
+				</type>
+			</eventType>
+			<eventType name="graduation">
+				<type lang="en">
+					<name>graduation</name>
+					<description>graduation</description>
+				</type>
+				<type lang="de">
+					<name>Bildungsabschluss</name>
+					<description>Bildungsabschluss</description>
+				</type>
+			</eventType>
+			<eventType name="marriage">
+				<type lang="en">
+					<name>marriage</name>
+					<description>marriage</description>
+				</type>
+				<type lang="de">
+					<name>Hochzeit</name>
+					<description>Hochzeit</description>
+				</type>
+			</eventType>
+			<eventType name="divorce">
+				<type lang="en">
+					<name>divorce</name>
+					<description>divorce</description>
+				</type>
+				<type lang="de">
+					<name>Scheidung</name>
+					<description>Scheidung</description>
+				</type>
+			</eventType>
+			<eventType name="residence">
+				<type lang="en">
+					<name>residence</name>
+					<description>place and time where a person lived</description>
+				</type>
+				<type lang="de">
+					<name>Wohnen</name>
+					<description>Ort und Zeit des Wohnens</description>
+				</type>
+			</eventType>
+			<eventType name="engagement">
+				<type lang="en">
+					<name>engagement</name>
+					<description>engagement</description>
+				</type>
+				<type lang="de">
+					<name>Beschäftigung</name>
+					<description>Beschäftigung</description>
+				</type>
+			</eventType>
+			<eventType name="emigration">
+				<type lang="en">
+					<name>emigration</name>
+					<description>emigration</description>
+				</type>
+				<type lang="de">
+					<name>Auswanderung</name>
+					<description>Auswanderung</description>
+				</type>
+			</eventType>
+			<eventType name="death">
+				<type lang="en">
+					<name>death</name>
+					<description>death of the person</description>
+				</type>
+				<type lang="de">
+					<name>Tot</name>
+					<description>Tot der Person</description>
+				</type>
+			</eventType>
+			<eventType name="other">
+				<type lang="en">
+					<name>other</name>
+					<description>other event</description>
+				</type>
+				<type lang="de">
+					<name>Sonstiges</name>
+					<description>Sonstiges Geschehen</description>
+				</type>
+			</eventType>
+		</eventTypes>
+
+		<infoTypes>
+			<infoType name="education">
+				<type lang="en">
+					<name>education</name>
+					<description>education of the person</description>
+				</type>
+				<type lang="de">
+					<name>Bildung</name>
+					<description>Bildung/Schulbildung der Person</description>
+				</type>
+			</infoType>
+			<infoType name="profession">
+				<type lang="en">
+					<name>profession</name>
+					<description>profession of the person</description>
+				</type>
+				<type lang="de">
+					<name>Beruf</name>
+					<description>Beruf der Person</description>
+				</type>
+			</infoType>
+			<infoType name="religion">
+				<type lang="en">
+					<name>religion</name>
+					<description>religion of the person</description>
+				</type>
+				<type lang="de">
+					<name>Religion</name>
+					<description>Religion der Person</description>
+				</type>
+			</infoType>
+			<infoType name="physical">
+				<type lang="en">
+					<name>physical</name>
+					<description>physical attribute</description>
+				</type>
+				<type lang="de">
+					<name>Äußerlichkeit</name>
+					<description>äußerliche Eigenschaft</description>
+				</type>
+			</infoType>
+			<infoType name="hobby">
+				<type lang="en">
+					<name>hobby</name>
+					<description>hobby of the person</description>
+				</type>
+				<type lang="de">
+					<name>Hobby</name>
+					<description>Hobby der Person</description>
+				</type>
+			</infoType>
+			<infoType name="property">
+				<type lang="en">
+					<name>property</name>
+					<description>property of the person</description>
+				</type>
+				<type lang="de">
+					<name>Eigenschaft</name>
+					<description>Eigenschaft der Person</description>
+				</type>
+			</infoType>
+			<infoType name="nationality">
+				<type lang="en">
+					<name>nationality</name>
+					<description>nationylity of the person</description>
+				</type>
+				<type lang="de">
+					<name>Nationalität</name>
+					<description>Nationalität</description>
+				</type>
+			</infoType>
+			<infoType name="language">
+				<type lang="en">
+					<name>language</name>
+					<description>language of the person</description>
+				</type>
+				<type lang="de">
+					<name>Sprache</name>
+					<description>Sprache der Person</description>
+				</type>
+			</infoType>
+			<infoType name="other">
+				<type lang="en">
+					<name>other</name>
+					<description>other information</description>
+				</type>
+				<type lang="de">
+					<name>Sonstiges</name>
+					<description>sonstige Information</description>
+				</type>
+			</infoType>
+		</infoTypes>
+
+		<documentTypes>
+			<documentType name="picture">
+				<type lang="en">
+					<name>picture</name>
+					<description>picture</description>
+				</type>
+				<type lang="de">
+					<name>Bild</name>
+					<description>Bild</description>
+				</type>
+			</documentType>
+			<documentType name="portraitpicture">
+				<type lang="en">
+					<name>picture portrait</name>
+					<description>portrait picture</description>
+				</type>
+				<type lang="de">
+					<name>Bild Portrait</name>
+					<description>Portrait Bild</description>
+				</type>
+			</documentType>
+			<documentType name="detailpicture">
+				<type lang="en">
+					<name>picture detail</name>
+					<description>detail picture</description>
+				</type>
+				<type lang="de">
+					<name>Bild Detail</name>
+					<description>Detail Bild</description>
+				</type>
+			</documentType>
+			<documentType name="birthcertificate">
+				<type lang="en">
+					<name>certificate birth</name>
+					<description>birth certificate</description>
+				</type>
+				<type lang="de">
+					<name>Geburtsurkunde</name>
+					<description>Geburtsurkunde</description>
+				</type>
+			</documentType>
+			<documentType name="marriagecertificate">
+				<type lang="en">
+					<name>certificate marriage</name>
+					<description>marriage certificate</description>
+				</type>
+				<type lang="de">
+					<name>Heiratssurkunde</name>
+					<description>Heiratsurkunde</description>
+				</type>
+			</documentType>
+			<documentType name="familybook">
+				<type lang="en">
+					<name>familybook</name>
+					<description>familybook</description>
+				</type>
+				<type lang="de">
+					<name>Stammbuch</name>
+					<description>Stammbuch</description>
+				</type>
+			</documentType>
+			<documentType name="deathcertificate">
+				<type lang="en">
+					<name>certificate death</name>
+					<description>death certificate</description>
+				</type>
+				<type lang="de">
+					<name>Sterbeurkunde</name>
+					<description>Sterbeurkunde</description>
+				</type>
+			</documentType>
+			<documentType name="other">
+				<type lang="en">
+					<name>other</name>
+					<description>other document</description>
+				</type>
+				<type lang="de">
+					<name>Sonstige Quelle</name>
+					<description>sonstige Quelle</description>
+				</type>
+			</documentType>
+		</documentTypes>
+
+		<dataRoles>
+			<dataRole name="father">
+				<role lang="en">
+					<name>father</name>
+				</role>
+				<role lang="de">
+					<name>Vater</name>
+				</role>
+			</dataRole>
+			<dataRole name="mother">
+				<role lang="en">
+					<name>mother</name>
+				</role>
+				<role lang="de">
+					<name>Mutter</name>
+				</role>
+			</dataRole>
+			<dataRole name="partner">
+				<role lang="en">
+					<name>partner</name>
+				</role>
+				<role lang="de">
+					<name>Partner</name>
+				</role>
+			</dataRole>
+			<dataRole name="child">
+				<role lang="en">
+					<name>child</name>
+				</role>
+				<role lang="de">
+					<name>Kind</name>
+				</role>
+			</dataRole>
+		</dataRoles>
+	</types>
+</resources>

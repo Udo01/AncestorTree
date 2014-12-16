@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title></title>
+        <!--jquery-->
+    	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    	<script type="text/javascript" src="http://code.jquery.com/ui/1.8.19/jquery-ui.min.js"></script>
+        <script src="//js.live.net/v5.0/wl.js"></script>       
+        
+    <script type="text/javascript">
+    function gup( name )
+    {
+      name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+      var regexS = "[\\?&]"+name+"=([^&#]*)";
+      var regex = new RegExp( regexS );
+      var results = regex.exec( window.location.href );
+      if( results == null )
+        return "";
+      else
+        return results[1];
+    }
+    </script>    
+        
+        
+    </head>
+    <body>
+<div id="mypanel">empty</div>
+    </body>
+    <script type="text/javascript">
+
+    var code = gup( 'code' );
+    $("#mypanel").html(code);  
+
+</script>
+</html>

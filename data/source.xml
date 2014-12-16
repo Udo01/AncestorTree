@@ -1,0 +1,12 @@
+   <doc type="portraitpicture">
+	<resource>http://www.somepic.jpg</resource>
+      <personref>HeinrichLang</personref>
+	<title>portrait picture of me</title>
+	<owner>
+      <personref>HeinrichLang</personref>
+      <text></text>	
+	</owner>
+      <date type="exact" year="1906" month="10" day="24"></date>
+      <place street="" zip="" city="Aachen" country=""></place>
+      <text></text>
+    </doc>

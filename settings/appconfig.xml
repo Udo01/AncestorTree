@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<settings>
+		<setting name="SD_APP_CLIENT_ID">00000000440BD2CA</setting>
+		<setting name="SD_REDIRECT_URL">http://ancestor-tree.appspot.com/callback.html</setting>
+	</settings>
+</config>

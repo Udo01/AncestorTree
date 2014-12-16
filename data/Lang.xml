@@ -1,0 +1,3754 @@
+﻿<gedx xmlns="http://www.w3.org/1999/xhtml">
+	<header xmlns="http://www.w3.org/1999/xhtml">
+		<filecreation xmlns="http://www.w3.org/1999/xhtml">
+			<date year="" month="" day=""></date>
+		</filecreation>
+		<lastchanged xmlns="http://www.w3.org/1999/xhtml">
+			<date year="" month="" day=""></date>
+		</lastchanged>
+		<product xmlns="http://www.w3.org/1999/xhtml">
+			<productid>GEDX</productid>
+			<version>1.0</version>
+			<name>GEDX</name>
+			<supplier>
+				<link ref="0815" target="Contact"/>
+			</supplier>
+		</product>
+		<copyright xmlns="http://www.w3.org/1999/xhtml">(C) 2007 RudiSoft</copyright>
+	</header>
+	<persons xmlns="http://www.w3.org/1999/xhtml">
+		<person gender="m" id="LeonhardLang" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Leonhard"></name>
+		</person>
+		<person gender="m" id="MelchiorLang1581" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Melchior"></name>
+		</person>
+		<person gender="m" id="HanßLang1639" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Hanß"></name>
+		</person>
+		<person gender="m" id="PeterLang" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Peter"></name>
+		</person>
+		<person gender="m" id="ChristophLang1692" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Christoph"></name>
+		</person>
+		<person gender="m" id="ValentinLang1729" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Valentin"></name>
+		</person>
+		<person gender="m" id="JohannesLang1770" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Johannes"></name>
+		</person>
+		<person gender="m" id="JohNikLang1807" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Joh.Nik."></name>
+		</person>
+		<person gender="m" id="PeterLang1845" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Peter"></name>
+		</person>
+		<person gender="m" id="PeterLang1874" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Peter"></name>
+		</person>
+		<person gender="m" id="HeinrichLang" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Lang" givn="Heinrich"></name>
+		</person>
+		<person gender="m" id="HeinzLang23101934" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Lang" givn="Heinz"></name>
+		</person>
+		<person gender="m" id="VolkerLang08101961" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Volker"></name>
+		</person>
+		<person gender="m" id="UdoLang15071965" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Udo" maid=""></name>
+		</person>
+		<person gender="f" id="NinaLang17041997" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Lang" givn="Nina"></name>
+		</person>
+		<person gender="f" id="MaikeLang27081999" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Lang" givn="Maike"></name>
+		</person>
+		<person gender="m" id="PeterSohnvonPeterLang1874Lang" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Peter"></name>
+		</person>
+		<person gender="f" id="MariaTochtervonPeterLang1874Lang" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Maria"></name>
+		</person>
+		<person gender="f" id="MagdalenaTochtervonPeterLang1874Lang" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Magdalena"></name>
+		</person>
+		<person gender="m" id="JohannesLang1871" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Johannes"></name>
+		</person>
+		<person gender="f" id="BarbaraLang18721873" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Barbara"></name>
+		</person>
+		<person gender="m" id="ConradLang1878" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Conrad"></name>
+		</person>
+		<person gender="f" id="BarbaraLang1879" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Barbara"></name>
+		</person>
+		<person gender="f" id="AnnaKathLang1834" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Kath."></name>
+		</person>
+		<person gender="f" id="MariaKathLang1837" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Maria Kath"></name>
+		</person>
+		<person gender="m" id="JohannesLang1839" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Johannes"></name>
+		</person>
+		<person gender="m" id="JLeonhardLang1841" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="J.Leonhard"></name>
+		</person>
+		<person gender="f" id="Lang1844" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="-"></name>
+		</person>
+		<person gender="f" id="AnnaBarbaraLang1849" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Barbara"></name>
+		</person>
+		<person gender="m" id="JohJakLang1853" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Joh.Jak."></name>
+		</person>
+		<person gender="m" id="GerhardNoreike" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Noreike" givn="Gerhard"></name>
+		</person>
+		<person gender="f" id="JudithLang15121968" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Lang" givn="Judith"></name>
+		</person>
+		<person gender="m" id="ThorstenNoreike18051970" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Noreike" givn="Thorsten"></name>
+		</person>
+		<person gender="m" id="PhilippWyck" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wijck" givn="Philipp"></name>
+		</person>
+		<person gender="m" id="JosephWyck1819" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wijck" givn="Joseph"></name>
+		</person>
+		<person gender="f" id="GertrudWyck1854" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wijck" givn="Gertrud"></name>
+		</person>
+		<person gender="m" id="PeterJosefWieck1875" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wieck" givn="Peter Josef"></name>
+		</person>
+		<person gender="f" id="ReginaLang1904" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Lang" givn="Regina"></name>
+		</person>
+		<person gender="f" id="GertrudWyck" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wijck" givn="Anna G."></name>
+		</person>
+		<person gender="f" id="AnjaBarbaraWyck" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wijck" givn="Anja Barbara"></name>
+		</person>
+		<person gender="m" id="JMathRahmen1792" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Rahmen" givn="Johann Math."></name>
+		</person>
+		<person gender="m" id="JJohRahmen" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Rahmen" givn="Jakob"></name>
+		</person>
+		<person gender="m" id="JRahmen1844" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Rahmen" givn="Jakob"></name>
+		</person>
+		<person gender="f" id="SophiaWieck1878" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wieck" givn="Sophia"></name>
+		</person>
+		<person gender="f" id="AnnaMariaRahmen" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Rahmen" givn="Anna Maria"></name>
+		</person>
+		<person gender="m" id="JHeinrichClaßen" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Claßen" givn="J.Heinrich"></name>
+		</person>
+		<person gender="m" id="JMathiasClaßen1828" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Claßen" givn="J.Mathias"></name>
+		</person>
+		<person gender="f" id="CarolineLang1867" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Caroline"></name>
+		</person>
+		<person gender="m" id="VaterElisClaßenMoll" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Moll" givn="Familie"></name>
+		</person>
+		<person gender="f" id="ElisClaßen1832" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Claßen" givn="Elis."></name>
+		</person>
+		<person gender="f" id="AnnaClaraClaßen" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Claßen" givn="Anna Clara"></name>
+		</person>
+		<person gender="f" id="CarolineLang" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Caroline"></name>
+		</person>
+		<person gender="f" id="BarbaraLang1814" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Barbara"></name>
+		</person>
+		<person gender="m" id="HermannMitlehner" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Mitlehner" givn="Hermann"></name>
+		</person>
+		<person gender="f" id="GudrunNoreike27111945" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Noreike" givn="Gudrun"></name>
+		</person>
+		<person gender="m" id="I9454e50742024dab98b0b94135df6945" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weißkopf" givn="Theodor Karl"></name>
+		</person>
+		<person gender="f" id="I15795113b4744a249bd22f6c9de91b36" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weißkopf" givn="Elisabeth"></name>
+		</person>
+		<person gender="m" id="I1d21964d9a1348918a92a2873ed89179" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gaus" givn="Heiner"></name>
+		</person>
+		<person gender="m" id="I3bfb77dd6cef4075a45d9717986baf5c" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gaus" givn="Heinz"></name>
+		</person>
+		<person gender="f" id="I5cfb6254d372479292416c0f242e8ba9" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gaus" givn="Käthe"></name>
+		</person>
+		<person gender="f" id="Ic520d00e187e45a695041f64b8771232" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Budg..." givn="Maria"></name>
+		</person>
+		<person gender="f" id="I81d9142d212d4c7cbf7c2ae3a5695d4d" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Hildegard"></name>
+		</person>
+		<person gender="f" id="Ib30ea5a3bb774296bdb97d1a4aabf734" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Simone"></name>
+		</person>
+		<person gender="m" id="Ieded066886a54e5e866ea934adeba4e3" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Marco"></name>
+		</person>
+		<person gender="f" id="I5e874a1190404d538741012c59566bd9" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Judith"></name>
+		</person>
+		<person gender="m" id="If67184c0fe7a4559a21f99d7e86e197a" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Kurt"></name>
+		</person>
+		<person gender="f" id="I009a547f7f474eed8899f39e659c3497" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Inge"></name>
+		</person>
+		<person gender="f" id="I7ee8ced2f33f482591ce1de544a7fe47" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Doris"></name>
+		</person>
+		<person gender="m" id="Ib43845791384423bb5b811e61a3a59f0" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Sabine"></name>
+		</person>
+		<person gender="m" id="I5ebeaf93a34d414aa5e7ce8b0d9a2a4d" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Alfred"></name>
+		</person>
+		<person gender="m" id="I396ec6bf210649a1bc67dfc08c4ed7ed" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weyers" givn="Heinz"></name>
+		</person>
+		<person gender="m" id="Ia70d8d776e374b298dff453900c1db58" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weyers" givn="Robert"></name>
+		</person>
+		<person gender="f" id="Id10ade45eb9f40319fc6bfba0fbd4a4d" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weyers" givn="Grete"></name>
+		</person>
+		<person gender="m" id="I4247608fa1cb40c9894da20c748eecaf" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Karl"></name>
+		</person>
+		<person gender="f" id="I3100bd4aedf049e2803893cb2effc0a8" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gruber" givn="Else"></name>
+		</person>
+		<person gender="m" id="I98766daab2a146d48eaced967ef0b09e" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Weißkopf" givn="Theodor Karl"></name>
+		</person>
+		<person gender="f" id="Ib7401d149b6a485689f4e20f146a1faf" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Kaletsch" givn="Lucia"></name>
+		</person>
+		<person gender="m" id="Ice24d4598c1d4a70a0af7aacfabc34a7" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Sopp" givn="Oskar"></name>
+		</person>
+		<person gender="m" id="I78b8d275fcfc413e953983a6e4e87739" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Pampuch" givn="Kind"></name>
+		</person>
+		<person gender="m" id="I51c1be9fe1624862968997411828fe0e" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Pampuch" givn="Vater"></name>
+		</person>
+		<person gender="f" id="I10748b233fdc46738863484421cecc24" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Pampuch" givn="Käthe"></name>
+		</person>
+		<person gender="m" id="Ic4df87ed277947a5b1f38861ad2a4865" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Sopp" givn="Oskar"></name>
+		</person>
+		<person gender="f" id="I498c06b4d1cd413bb24b7eeb763f65b7" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Sopp" givn="Maria"></name>
+		</person>
+		<person gender="f" id="I9374092f16f7417da3877028516607de" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weißkopf" givn="Wilhelmine"></name>
+		</person>
+		<person gender="m" id="I698cea0a03794516a902dea94db85497" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Weißkopf" givn="Theodor "></name>
+		</person>
+		<person gender="f" id="UrsulaLang1936" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Ursula"></name>
+		</person>
+		<person gender="m" id="I6702a525ec62447c80e2d901bd4047c9" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Klann" givn="Pascal"></name>
+		</person>
+		<person gender="m" id="If8e95dce395542cfb469bd8c30c276b5" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Klann" givn="Fabian"></name>
+		</person>
+		<person gender="m" id="I2b5fa51d43144b8ea0b809bcb39abb85" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Klann" givn="Sven"></name>
+		</person>
+		<person gender="m" id="I168d5e8b07654b4ea81e8daa53e4663c" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Klann" givn="Karl"></name>
+		</person>
+		<person gender="f" id="I83607a3c8e694bcc8cc74615370da8e2" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Klann" givn="Kerstin"></name>
+		</person>
+		<person gender="f" id="Idaea86e5c4794860b9d61a8da3be42ac" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weißkopf" givn="Karla"></name>
+		</person>
+		<person gender="f" id="I88578e3452734d0e945d087d86148f36" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weißkopf" givn="Marion"></name>
+		</person>
+		<person gender="m" id="Ib95e09a18dd94d529adf35fb3b323226" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weißkopf" givn="Erich"></name>
+		</person>
+		<person gender="f" id="If7d8f06557d34d5b9bca0c76f837afb1" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Ursula"></name>
+		</person>
+		<person gender="m" id="I4a898fb3f13b4bd6a4b83750e473bf9e" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Franc"></name>
+		</person>
+		<person gender="f" id="I1d0707d8df764fd18bd88282dab45711" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Antonia"></name>
+		</person>
+		<person gender="m" id="I978ec5d8a87f4f39a4e6baa25c72523b" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Anton"></name>
+		</person>
+		<person gender="f" id="I3bc93ee78697425d97822c2eb4ea6558" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Pepsa"></name>
+		</person>
+		<person gender="m" id="I587a64f4fcd14dd4a80acb1d5dfe847e" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Franz"></name>
+		</person>
+		<person gender="f" id="I5f5e0b76e997453ea1ebb8ba5d87bbff" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Katharina"></name>
+		</person>
+		<person gender="f" id="If2a8caa53ac44f42925608e380465669" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Maag" givn="Rosemarie"></name>
+		</person>
+		<person gender="m" id="Ie82b32fef0824f7e827db6e1c4d2491d" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Maag" givn="u"></name>
+		</person>
+		<person gender="f" id="I958bb2a22730482cb9837ea4eb9cb33e" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Maag" givn="Gerda"></name>
+		</person>
+		<person gender="m" id="I880c12fb3f6949858029bc434b49913f" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Maag" givn="Heinz"></name>
+		</person>
+		<person gender="f" id="Ic64eb5fbd3ed4e869ff1cbb64400b3d0" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Katharina"></name>
+		</person>
+		<person gender="f" id="I0f83a7e05c5342908280c1a347aa30bd" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Maria"></name>
+		</person>
+		<person gender="m" id="I3eae7f0b143648e88dafbe6f24075f0a" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Heinz"></name>
+		</person>
+		<person gender="m" id="Ieac42977d99d4746b376045efe1a9b2f" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Jakob"></name>
+		</person>
+		<person gender="f" id="I53a28787f1144dc995aeaba5ed574fa8" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Frieda"></name>
+		</person>
+		<person gender="m" id="Ib8b61980626f4429814f5cb89834f859" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Willi"></name>
+		</person>
+		<person gender="m" id="I21bc00373ad54ba490dbd63e03e27f12" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Neuhaus" givn="Willi"></name>
+		</person>
+		<person gender="f" id="I5ff94a63949d464abdacdd3d8e6d19dd" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Neuhaus" givn="Else"></name>
+		</person>
+		<person gender="f" id="Iaa7509aa6b88461f98fd71f53895b7a4" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Karoline"></name>
+		</person>
+		<person gender="f" id="I77d1b95c6dd143f1954af4fab3ad675a" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Temme" givn=""></name>
+		</person>
+		<person gender="m" id="I7541d45ba4564ea1839ee22c2f4a6558" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Temme" givn="Rainer"></name>
+		</person>
+		<person gender="m" id="Ie3fe489ceb5842d08962b4856c271576" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Temme" givn="Helmut"></name>
+		</person>
+		<person gender="f" id="I8ec99eaec84b42fe97d489953cc3c33e" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Temme" givn="Elfriede"></name>
+		</person>
+		<person gender="m" id="Ia41e5579c65d4059a89e159b0e7b7e8b" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Andreas"></name>
+		</person>
+		<person gender="f" id="Ic36df2e19f1e4650b1265ac5e7ccec77" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Maria"></name>
+		</person>
+		<person gender="m" id="I774c9b0115c74a9b9eef122d18c5089b" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Matthias"></name>
+		</person>
+		<person gender="f" id="I6f7f0d42bb7347488023a796aff93340" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn=""></name>
+		</person>
+		<person gender="f" id="I4cf8c029b1874763b5203a7db06a8c7c" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gerold" givn="Lissy"></name>
+		</person>
+		<person gender="m" id="I570ba3a21c7f4705b4787746b2698977" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gerold" givn="Wilhelm"></name>
+		</person>
+		<person gender="f" id="Ie97c95c12d114d74aead2b513482e141" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gerold" givn="Maria"></name>
+		</person>
+		<person gender="f" id="I2ab2e73c789c410cb0dd28cdee47dd26" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Selma Auguste"></name>
+		</person>
+		<person gender="f" id="Ib3bee6aa9f454e238f1f7732d34ca4ba" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Heintzen" givn=""></name>
+		</person>
+		<person gender="m" id="Ic57c62eedf684f55b7668bf8cb0e2092" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Heintzen" givn="u"></name>
+		</person>
+		<person gender="f" id="Ic93cca488f9f4254b2bd7f0994ca3b30" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Heintzen" givn="Otto"></name>
+		</person>
+		<person gender="m" id="I82f6589d0c6548169b231779e34cfb24" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Heintzen" givn="Rudolf"></name>
+		</person>
+		<person gender="f" id="I22c29b74b8f6455e8d475a9611a55e64" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Heintzen" givn="Emmi"></name>
+		</person>
+		<person gender="m" id="Ie8e371b115544f338b9f3d1ad9c6697b" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Otoo"></name>
+		</person>
+		<person gender="m" id="I0cc9b7646ab64c5dad04609ceb61e27b" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Rudolf"></name>
+		</person>
+		<person gender="m" id="Ib17e3a3ec107450f859eec6806146737" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Anton"></name>
+		</person>
+		<person gender="m" id="I9101ad49d5c0448a89f18dd689e365ca" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Fliehs" givn="Martin"></name>
+		</person>
+		<person gender="f" id="Ic5d1094ae74a4a8fb84d72fb7753d667" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Svet" givn="Elisabeth"></name>
+		</person>
+		<person gender="f" id="If7d40599e59b414cba52ea4116b591e8" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Maria"></name>
+		</person>
+		<person gender="f" id="Id2b29982f16d4954a02414a23cc0b4d6" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Martha"></name>
+		</person>
+		<person gender="m" id="I787e255b3f6b4c78b4be871f7d2e6d42" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Hans"></name>
+		</person>
+		<person gender="f" id="I9d05463960934db0a1d335cf82292f2f" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn=""></name>
+		</person>
+		<person gender="m" id="Icc77c65b441f45258063f13234d1fe1a" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gehlen" givn="Oskar"></name>
+		</person>
+		<person gender="f" id="I92029e6316fe4a0badfd65e8cae643f8" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Gehlen" givn="Elisabeth"></name>
+		</person>
+		<person gender="m" id="I6c724a91a80343ba846a7af3a6e61d15" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Johann"></name>
+		</person>
+		<person gender="f" id="I839011b649354b0bb55ee52e630f2ebe" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Flezar" givn="Maria"></name>
+		</person>
+		<person gender="f" id="MariaWeißkopf1909" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weißkopf" givn="Maria"></name>
+		</person>
+		<person gender="f" id="MariaAnnaLang1772" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Maria Anna"></name>
+		</person>
+		<person gender="f" id="AnnaMarg1800" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Marg."></name>
+		</person>
+		<person gender="m" id="JGeorgLang1802" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="J.Georg"></name>
+		</person>
+		<person gender="m" id="JLeonhardLang1805" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="J.Leonhard"></name>
+		</person>
+		<person gender="m" id="FranzAntonLang1810" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Franz Anton"></name>
+		</person>
+		<person gender="f" id="JValentLang1811" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="J.Valent"></name>
+		</person>
+		<person gender="m" id="TotgeburtLang1814" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Totgeburt"></name>
+		</person>
+		<person gender="m" id="Totgeburt1815" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Totgeburt"></name>
+		</person>
+		<person gender="f" id="ABarbaraLang1733" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="A.Barbara"></name>
+		</person>
+		<person gender="f" id="AnnaMariaLang1760" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Maria"></name>
+		</person>
+		<person gender="f" id="AnnaMargLang1761" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Marg."></name>
+		</person>
+		<person gender="f" id="AnnaMargLang1762" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Marg."></name>
+		</person>
+		<person gender="m" id="JohGeorg1764" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Joh. Georg"></name>
+		</person>
+		<person gender="f" id="EvaMariaLang1765" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Eva Maria"></name>
+		</person>
+		<person gender="f" id="CathElisabeth1767" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Cath. Elisabeth"></name>
+		</person>
+		<person gender="f" id="MariaAgLang1697" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Maria Agathe"></name>
+		</person>
+		<person gender="f" id="AnnaReginaLang1724" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Regina"></name>
+		</person>
+		<person gender="f" id="MargLang1732" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Marg."></name>
+		</person>
+		<person gender="f" id="AnnaMariaLang1667" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Maria"></name>
+		</person>
+		<person gender="m" id="HanßLeonhardLang1701" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Hanß Leonhard"></name>
+		</person>
+		<person gender="f" id="AnnaOtilieLang1703" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Otilie"></name>
+		</person>
+		<person gender="f" id="MariaMarthaLang1706" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Maria Martha"></name>
+		</person>
+		<person gender="f" id="EvaKathLang1711" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Eva Kath"></name>
+		</person>
+		<person gender="m" id="JohAdam1711" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Joh. Adam"></name>
+		</person>
+		<person gender="f" id="AnnaLang1644" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna"></name>
+		</person>
+		<person gender="m" id="HanßLang1665" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Hanß"></name>
+		</person>
+		<person gender="f" id="BarbaraLang1667" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Barbara"></name>
+		</person>
+		<person gender="m" id="BenedictLang1670" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Benedict"></name>
+		</person>
+		<person gender="m" id="AdamLang1672" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Adam"></name>
+		</person>
+		<person gender="f" id="Marg1675" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Marg."></name>
+		</person>
+		<person gender="m" id="JGeorgLang1676" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="J.Georg"></name>
+		</person>
+		<person gender="f" id="AnnaMargLang1679" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Anna Marg."></name>
+		</person>
+		<person gender="m" id="JAdamLang1682" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="J.Adam"></name>
+		</person>
+		<person gender="f" id="ElisabethLang1686" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Elisabeth"></name>
+		</person>
+		<person gender="f" id="ACathLang1689" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="A.Cath."></name>
+		</person>
+		<person gender="m" id="AlbertLang1633" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Albert"></name>
+		</person>
+		<person gender="m" id="HanßLang1590" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Hanß"></name>
+		</person>
+		<person gender="m" id="JLWalther1785" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Walther" givn="Johann Leonhard"></name>
+		</person>
+		<person gender="f" id="AKSchäfer1791" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Walther" givn="Anna Katarina"></name>
+		</person>
+		<person gender="m" id="JohNikBischoff1743" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Bischoff" givn="Joh.Nik."></name>
+		</person>
+		<person gender="m" id="HansPeterArnold1668" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Arnold" givn="Hans Peter"></name>
+		</person>
+		<person gender="f" id="AnnaMariaArnold1665" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Arnold" givn="Anna Maria"></name>
+		</person>
+		<person gender="m" id="HanßArnold1605" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Arnold" givn="Hanß "></name>
+		</person>
+		<person gender="f" id="Arnold1628" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Arnold" givn="Walper"></name>
+		</person>
+		<person gender="m" id="HanßFriedrich1615" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Friedrich" givn="Hanß"></name>
+		</person>
+		<person gender="f" id="MargareteFriedrich" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Friedrich" givn="Margarete"></name>
+		</person>
+		<person gender="f" id="RegineRahmen1844" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Rahmen" givn="Regine"></name>
+		</person>
+		<person gender="m" id="SebastianSchmitz" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" surn="Schmitz" givn="Sebastian"></name>
+		</person>
+		<person gender="f" id="MariaCathSchmitz" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Schmitz" givn="Maria Cath."></name>
+		</person>
+		<person gender="f" id="MClaraRahmen" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Rahmen" givn="Maria Cath."></name>
+		</person>
+		<person gender="m" id="HanßArnold1570" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Arnold" givn="Hanß"></name>
+		</person>
+		<person gender="m" id="FriedrichLinden" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Linden" givn="Friedrich"></name>
+		</person>
+		<person gender="m" id="GünterLang" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Linden" givn="Günter"></name>
+		</person>
+		<person gender="m" id="UweLang" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Linden" givn="Uwe"></name>
+		</person>
+		<person gender="m" id="FerdinandSchulz" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Schulz" givn="Ferdinand"></name>
+		</person>
+		<person gender="m" id="PhilippSchulz" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Schulz" givn="Philipp"></name>
+		</person>
+		<person gender="m" id="KlausSchulz" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Schulz" givn="Klaus"></name>
+		</person>
+		<person gender="f" id="AlmaLang" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Alma"></name>
+		</person>
+		<person gender="m" id="PeterLang1932" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Peter"></name>
+		</person>
+		<person gender="f" id="GiselaLang1931" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Gisela"></name>
+		</person>
+		<person gender="f" id="EdithLang1932" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Edith"></name>
+		</person>
+		<person gender="m" id="RainerLang1944" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Rainer"></name>
+		</person>
+		<person gender="f" id="HanneloreLang1935" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Hannelore"></name>
+		</person>
+		<person gender="f" id="SonjaLang1941" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Sonja"></name>
+		</person>
+		<person gender="f" id="BrunhildeLang1938" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Brunhilde"></name>
+		</person>
+		<person gender="m" id="DieterLang1940" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Dieter"></name>
+		</person>
+		<person gender="f" id="AnneliseLang1939" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Annelise"></name>
+		</person>
+		<person gender="m" id="PeterLang1964" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Peter"></name>
+		</person>
+		<person gender="m" id="RalfLang1965" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Ralf"></name>
+		</person>
+		<person gender="m" id="HeikoLang1969" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Heiko"></name>
+		</person>
+		<person gender="m" id="FrankLang1973" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Lang" givn="Frank"></name>
+		</person>
+		<person gender="f" id="IngeFalkenberg" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Falkenberg" givn="Inge"></name>
+		</person>
+		<person gender="m" id="JakobFalkenberg" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Falkenberg" givn="Jakob"></name>
+		</person>
+		<person gender="f" id="AgnesWiejck" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wiejck" givn="Adelgunde"></name>
+		</person>
+		<person gender="m" id="TheodorWijck1731" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wijck" givn="Theodor"></name>
+		</person>
+		<person gender="f" id="AgnesWijck" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Wijck" givn="Agnes"></name>
+		</person>
+		<person gender="f" id="a6cd6984-59a6-45a1-a040-35df6f049f27" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weyers" givn="Grete"></name>
+		</person>
+		<person gender="m" id="acca46c5-b8ed-4796-afdb-885f8c21a414" xmlns="http://www.w3.org/1999/xhtml">
+			<name surn="Weyers" givn="Robert"></name>
+		</person>
+		<person id="d4863dd8-cd96-45af-8c9a-567687bc1c5c" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Brigitte" surn="Lang"></name>
+		</person>
+		<person id="3bea4afd-e973-4833-80b6-e482736fdc36" gender="m" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Hermann Karl" surn="Noreike"></name>
+		</person>
+		<person id="f97037f7-8bb9-4780-9325-de535a256990" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="Plomann" givn="Anna Luise" surn="Noreike"></name>
+		</person>
+		<person id="c3ff3f8a-35d5-4708-89be-88a402ac0ac8" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="Hoffmann" givn="Elli Laura" surn="Mitlehner"></name>
+		</person>
+		<person id="c2cd50f8-35e6-421e-a844-4c3e3900aceb" gender="m" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Otto" surn="Mitlehner"></name>
+		</person>
+		<person id="030b24fa-94e2-4875-b94a-9afefd62bbf9" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Anna Maria" surn="Mitlehner"></name>
+		</person>
+		<person id="0e97f789-2727-4dce-9215-3c924efaf446" gender="m" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Maximilian August" surn="Mitlehner"></name>
+		</person>
+		<person id="27068e1e-9513-4695-b7e9-f2c5a89c39a3" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="Häntschel" givn="Mechthilde" surn="Mitlehner"></name>
+		</person>
+		<person id="762f2410-8889-40ca-a813-79b0d1147967" gender="m" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="August" surn="Patzak"></name>
+		</person>
+		<person id="0e3368e8-410f-4301-bf45-84cde7998765" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Maria Katharina" surn="Patzag"></name>
+		</person>
+		<person id="6b40c8c6-e113-481c-a985-52ff5bd0f437" gender="m" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Theodor Anton" surn="Hoffmann"></name>
+		</person>
+		<person id="4d1f5f25-d986-4b6b-8ba2-2e37ceb62e90" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="Bölitz" givn="Zilla Sälma Rosa" surn="Hoffmann"></name>
+		</person>
+		<person id="66b5d12c-daf4-4e62-9f15-d9c87be57e87" gender="m" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Georg Christian" surn="Hoffmann"></name>
+		</person>
+		<person id="162ea908-4f3e-4da1-90b7-09a8abc013f3" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="Büchner" givn="Augusta Wilhelmina" surn="Hoffmann"></name>
+		</person>
+		<person id="5f85184c-f12e-42b3-b093-6008e8f43ea0" gender="m" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Karl Heinrich" surn="Bölitz"></name>
+		</person>
+		<person id="0e2882df-50af-43e5-b579-8c1727fb7fb7" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="Bruchmann" givn="Johanna Dorothea" surn="Bölitz"></name>
+		</person>
+		<person id="ac301345-cb36-40c5-a317-251aa8a91d07" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Christel" surn="Rickenberg"></name>
+		</person>
+		<person id="1a0ad04b-9e2b-415c-86f7-96f8fae61cde" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="Noreike" givn="Doris" surn="Bartsch"></name>
+		</person>
+		<person id="de1aa3c7-cf60-4db5-9ec4-1e462c261a5f" gender="m" xmlns="http://www.w3.org/1999/xhtml">
+			<name maid="" givn="Herbert" surn="Noreike"></name>
+		</person>
+		<person id="f07c73b8-1eca-4b81-a286-d1b1b7c8f89f" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name givn="Anita" surn="Noreike"></name>
+		</person>
+		<person id="fbc9a159-c8ff-4803-8e0b-cc7cdec3f795" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name givn="Anke" surn="Klier"></name>
+		</person>
+		<person id="066de448-22ef-4d63-bc62-39b58db95da4" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name givn="Uta" surn="Noreike"></name>
+		</person>
+		<person id="72698a32-20a5-42fd-8d05-15ac6d2f7c78" gender="m" xmlns="http://www.w3.org/1999/xhtml">
+			<name givn="Oliver" surn="Klier"></name>
+		</person>
+		<person id="43b95755-d6ba-41bc-aa9d-9a5f8df3cb8c" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name givn="Greta Margo" surn="Klier"></name>
+		</person>
+		<person id="486655b5-9bd9-4c7c-b974-f712f813f8cb" gender="f" xmlns="http://www.w3.org/1999/xhtml">
+			<name givn="" surn="Klier"></name>
+		</person>
+		<person id="4ef3ee27-947f-42eb-b369-278b0afdf5c0" gender="f">
+			<name maid="" givn="Elisabeth" surn="Weyermanns"></name>
+		</person>
+		<person id="cbd4dfd4-45a8-427b-9b32-dccb52aa8b5a" gender="f">
+			<name maid="Hartmann" givn="Henrieete" surn="Lang"></name>
+		</person>
+	</persons>
+	<attributes xmlns="http://www.w3.org/1999/xhtml"></attributes>
+	<events xmlns="http://www.w3.org/1999/xhtml">
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>LeonhardLang</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MelchiorLang1581</personref>
+			<date day="" month="" year="1581" type="exact"></date>
+			<place country="" city="Bayernland" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßLang1639</personref>
+			<date day="" month="" year="1639" type="exact"></date>
+			<place country="" city="Bayernland" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang</personref>
+			<date day="5" month="10" year="1662" type="exact"></date>
+			<place country="" city="Mümling-Krumbach" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ChristophLang1692</personref>
+			<date day="" month="" year="1692" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ValentinLang1729</personref>
+			<date day="25" month="9" year="1729" type="exact"></date>
+			<place country="" city="Momart" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohannesLang1770</personref>
+			<date day="26" month="2" year="1770" type="exact"></date>
+			<place country="" city="Momart" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohNikLang1807</personref>
+			<date day="8" month="10" year="1808" type="exact"></date>
+			<place country="" city="Weitengesäß" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1845</personref>
+			<date day="17" month="9" year="1845" type="exact"></date>
+			<place country="" city="Weitengesäß" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1874</personref>
+			<date day="26" month="10" year="1874" type="exact"></date>
+			<place country="" city="Rödelheim" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeinrichLang</personref>
+			<date day="20" month="10" year="1906" type="exact"></date>
+			<place country="" city="Aachen" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeinzLang23101934</personref>
+			<date day="23" month="10" year="1934" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>VolkerLang08101961</personref>
+			<date day="8" month="10" year="1961" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>NinaLang17041997</personref>
+			<date day="17" month="4" year="1997" type="exact"></date>
+			<place country="" city="Neuss" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MaikeLang27081999</personref>
+			<date day="27" month="8" year="1999" type="exact"></date>
+			<place country="" city="Neuss" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterSohnvonPeterLang1874Lang</personref>
+			<date day="09" month="05" year="1905" type="exact"></date>
+			<place country="" city="Aachen" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MariaTochtervonPeterLang1874Lang</personref>
+			<date day="25" month="05" year="1911" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MagdalenaTochtervonPeterLang1874Lang</personref>
+			<date day="16" month="06" year="1908" type="exact"></date>
+			<place country="" city="Aachen" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohannesLang1871</personref>
+			<date day="" month="" year="1871" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BarbaraLang18721873</personref>
+			<date day="" month="" year="1872" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ConradLang1878</personref>
+			<date day="" month="" year="1878" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BarbaraLang1879</personref>
+			<date day="" month="" year="1879" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaKathLang1834</personref>
+			<date day="" month="" year="1834" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MariaKathLang1837</personref>
+			<date day="" month="" year="1837" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohannesLang1839</personref>
+			<date day="" month="" year="1839" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JLeonhardLang1841</personref>
+			<date day="" month="" year="1841" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Lang1844</personref>
+			<date day="" month="" year="1844" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaBarbaraLang1849</personref>
+			<date day="" month="" year="1849" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohJakLang1853</personref>
+			<date day="" month="" year="1853" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GerhardNoreike</personref>
+			<date day="13" month="11" year="1936" type="exact"></date>
+			<place country="" city="Liebstadt Kreis Mohrungen" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JudithLang15121968</personref>
+			<date day="15" month="12" year="1968" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street="Flurstr.14"></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ThorstenNoreike18051970</personref>
+			<date day="16" month="5" year="1971" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street="Flrstr 14"></place>
+			<text>Frauenklinik</text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PhilippWyck</personref>
+			<date day="" month="" year="1778" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JosephWyck1819</personref>
+			<date day="" month="" year="1819" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GertrudWyck1854</personref>
+			<date day="" month="" year="1854" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterJosefWieck1875</personref>
+			<date day="" month="" year="1875" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ReginaLang1904</personref>
+			<date day="" month="" year="1904" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GertrudWyck</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnjaBarbaraWyck</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JMathRahmen1792</personref>
+			<date day="" month="" year="1792" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JJohRahmen</personref>
+			<date day="23" month="01" year="1816" type="exact"></date>
+			<place country="" city="Kollhausen" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JRahmen1844</personref>
+			<date day="05" month="10" year="1844" type="exact"></date>
+			<place country="" city="Niederemdt" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>SophiaWieck1878</personref>
+			<date day="" month="" year="1878" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMariaRahmen</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JHeinrichClaßen</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JMathiasClaßen1828</personref>
+			<date day="" month="" year="1828" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>CarolineLang1867</personref>
+			<date day="24" month="06" year="1867" type="exact"></date>
+			<place country="" city="Buschmühle/Aachen" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>VaterElisClaßenMoll</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ElisClaßen1832</personref>
+			<date day="" month="" year="1832" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaClaraClaßen</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>CarolineLang</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BarbaraLang1814</personref>
+			<date day="" month="" year="1814" type="exact"></date>
+			<place country="" city="Weitengesäß" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HermannMitlehner</personref>
+			<date day="19" month="8" year="1904" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GudrunNoreike27111945</personref>
+			<date day="27" month="11" year="1945" type="exact"></date>
+			<place country="" city="Ufhoven Bad Langensalza" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I9454e50742024dab98b0b94135df6945</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I15795113b4744a249bd22f6c9de91b36</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I1d21964d9a1348918a92a2873ed89179</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I3bfb77dd6cef4075a45d9717986baf5c</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I5cfb6254d372479292416c0f242e8ba9</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ic520d00e187e45a695041f64b8771232</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I81d9142d212d4c7cbf7c2ae3a5695d4d</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib30ea5a3bb774296bdb97d1a4aabf734</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ieded066886a54e5e866ea934adeba4e3</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I5e874a1190404d538741012c59566bd9</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>If67184c0fe7a4559a21f99d7e86e197a</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I009a547f7f474eed8899f39e659c3497</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I7ee8ced2f33f482591ce1de544a7fe47</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib43845791384423bb5b811e61a3a59f0</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I5ebeaf93a34d414aa5e7ce8b0d9a2a4d</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I396ec6bf210649a1bc67dfc08c4ed7ed</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ia70d8d776e374b298dff453900c1db58</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Id10ade45eb9f40319fc6bfba0fbd4a4d</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I4247608fa1cb40c9894da20c748eecaf</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I3100bd4aedf049e2803893cb2effc0a8</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I98766daab2a146d48eaced967ef0b09e</personref>
+			<date day="21" month="03" year="1876" type="exact"></date>
+			<place country="Deutschland" city="Duisburg Hochfeld" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib7401d149b6a485689f4e20f146a1faf</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ice24d4598c1d4a70a0af7aacfabc34a7</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I78b8d275fcfc413e953983a6e4e87739</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I51c1be9fe1624862968997411828fe0e</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I10748b233fdc46738863484421cecc24</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ic4df87ed277947a5b1f38861ad2a4865</personref>
+			<date day="27" month="01" year="1833" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I498c06b4d1cd413bb24b7eeb763f65b7</personref>
+			<date day="08" month="10" year="1852" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I9374092f16f7417da3877028516607de</personref>
+			<date day="06" month="03" year="1879" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I698cea0a03794516a902dea94db85497</personref>
+			<date day="16" month="11" year="1902" type="exact"></date>
+			<place country="Deutschland" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>UrsulaLang1936</personref>
+			<date day="17" month="3" year="1936" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I6702a525ec62447c80e2d901bd4047c9</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>If8e95dce395542cfb469bd8c30c276b5</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I2b5fa51d43144b8ea0b809bcb39abb85</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I168d5e8b07654b4ea81e8daa53e4663c</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I83607a3c8e694bcc8cc74615370da8e2</personref>
+			<date day="27" month="11" year="1965" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Idaea86e5c4794860b9d61a8da3be42ac</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I88578e3452734d0e945d087d86148f36</personref>
+			<date day="18" month="09" year="1969" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib95e09a18dd94d529adf35fb3b323226</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>If7d8f06557d34d5b9bca0c76f837afb1</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="Österreich" city="Triest" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I4a898fb3f13b4bd6a4b83750e473bf9e</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I1d0707d8df764fd18bd88282dab45711</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I978ec5d8a87f4f39a4e6baa25c72523b</personref>
+			<date day="" month="" year="1878" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I3bc93ee78697425d97822c2eb4ea6558</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I587a64f4fcd14dd4a80acb1d5dfe847e</personref>
+			<date day="" month="" year="1878" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I5f5e0b76e997453ea1ebb8ba5d87bbff</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>If2a8caa53ac44f42925608e380465669</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ie82b32fef0824f7e827db6e1c4d2491d</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I958bb2a22730482cb9837ea4eb9cb33e</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I880c12fb3f6949858029bc434b49913f</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ic64eb5fbd3ed4e869ff1cbb64400b3d0</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I0f83a7e05c5342908280c1a347aa30bd</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I3eae7f0b143648e88dafbe6f24075f0a</personref>
+			<date day="" month="" year="1915" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ieac42977d99d4746b376045efe1a9b2f</personref>
+			<date day="17" month="07" year="1882" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I53a28787f1144dc995aeaba5ed574fa8</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib8b61980626f4429814f5cb89834f859</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I21bc00373ad54ba490dbd63e03e27f12</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I5ff94a63949d464abdacdd3d8e6d19dd</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Iaa7509aa6b88461f98fd71f53895b7a4</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I77d1b95c6dd143f1954af4fab3ad675a</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I7541d45ba4564ea1839ee22c2f4a6558</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ie3fe489ceb5842d08962b4856c271576</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I8ec99eaec84b42fe97d489953cc3c33e</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ia41e5579c65d4059a89e159b0e7b7e8b</personref>
+			<date day="" month="" year="1894" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ic36df2e19f1e4650b1265ac5e7ccec77</personref>
+			<date day="20" month="01" year="1961" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I774c9b0115c74a9b9eef122d18c5089b</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I6f7f0d42bb7347488023a796aff93340</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I4cf8c029b1874763b5203a7db06a8c7c</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I570ba3a21c7f4705b4787746b2698977</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ie97c95c12d114d74aead2b513482e141</personref>
+			<date day="" month="" year="1898" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I2ab2e73c789c410cb0dd28cdee47dd26</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib3bee6aa9f454e238f1f7732d34ca4ba</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ic57c62eedf684f55b7668bf8cb0e2092</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ic93cca488f9f4254b2bd7f0994ca3b30</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I82f6589d0c6548169b231779e34cfb24</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I22c29b74b8f6455e8d475a9611a55e64</personref>
+			<date day="" month="" year="1910" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ie8e371b115544f338b9f3d1ad9c6697b</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I0cc9b7646ab64c5dad04609ceb61e27b</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib17e3a3ec107450f859eec6806146737</personref>
+			<date day="24" month="05" year="1857" type="exact"></date>
+			<place country="Slowenien" city="Podgrad" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I9101ad49d5c0448a89f18dd689e365ca</personref>
+			<date day="22" month="10" year="1861" type="exact"></date>
+			<place country="" city="St.Nikolei" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ic5d1094ae74a4a8fb84d72fb7753d667</personref>
+			<date day="15" month="11" year="1865" type="exact"></date>
+			<place country="" city="St.Paul" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>If7d40599e59b414cba52ea4116b591e8</personref>
+			<date day="29" month="03" year="1857" type="exact"></date>
+			<place country="Slowenien" city="Lubljana" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Id2b29982f16d4954a02414a23cc0b4d6</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I787e255b3f6b4c78b4be871f7d2e6d42</personref>
+			<date day="26" month="03" year="1910" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I9d05463960934db0a1d335cf82292f2f</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Icc77c65b441f45258063f13234d1fe1a</personref>
+			<date day="15" month="11" year="1910" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I92029e6316fe4a0badfd65e8cae643f8</personref>
+			<date day="14" month="08" year="1911" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I6c724a91a80343ba846a7af3a6e61d15</personref>
+			<date day="17" month="07" year="1882" type="exact"></date>
+			<place country="Slowenien/Jugeslawien" city="Laibach" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I839011b649354b0bb55ee52e630f2ebe</personref>
+			<date day="26" month="12" year="1886" type="exact"></date>
+			<place country="Steiermark" city="Polzia" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MariaWeißkopf1909</personref>
+			<date day="16" month="3" year="1909" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MariaAnnaLang1772</personref>
+			<date day="" month="" year="1772" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMarg1800</personref>
+			<date day="" month="" year="1800" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JGeorgLang1802</personref>
+			<date day="" month="" year="1802" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JLeonhardLang1805</personref>
+			<date day="" month="" year="1805" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>FranzAntonLang1810</personref>
+			<date day="" month="" year="1810" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JValentLang1811</personref>
+			<date day="" month="" year="1811" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>TotgeburtLang1814</personref>
+			<date day="" month="" year="1814" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Totgeburt1815</personref>
+			<date day="" month="" year="1815" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ABarbaraLang1733</personref>
+			<date day="" month="" year="1733" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMariaLang1760</personref>
+			<date day="" month="" year="1760" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMargLang1761</personref>
+			<date day="" month="" year="1761" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMargLang1762</personref>
+			<date day="" month="" year="1762" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohGeorg1764</personref>
+			<date day="" month="" year="1764" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>EvaMariaLang1765</personref>
+			<date day="" month="" year="1765" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>CathElisabeth1767</personref>
+			<date day="" month="" year="1767" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MariaAgLang1697</personref>
+			<date day="" month="" year="1697" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaReginaLang1724</personref>
+			<date day="" month="" year="1724" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MargLang1732</personref>
+			<date day="" month="" year="1732" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMariaLang1667</personref>
+			<date day="" month="" year="1667" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßLeonhardLang1701</personref>
+			<date day="" month="" year="1701" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaOtilieLang1703</personref>
+			<date day="" month="" year="1703" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MariaMarthaLang1706</personref>
+			<date day="" month="" year="1706" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>EvaKathLang1711</personref>
+			<date day="" month="" year="1711" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohAdam1711</personref>
+			<date day="" month="" year="1711" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaLang1644</personref>
+			<date day="" month="" year="1644" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßLang1665</personref>
+			<date day="" month="" year="1665" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BarbaraLang1667</personref>
+			<date day="" month="" year="1667" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BenedictLang1670</personref>
+			<date day="" month="" year="1670" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AdamLang1672</personref>
+			<date day="" month="" year="1672" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Marg1675</personref>
+			<date day="" month="" year="1675" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JGeorgLang1676</personref>
+			<date day="" month="" year="1676" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMargLang1679</personref>
+			<date day="" month="" year="1679" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JAdamLang1682</personref>
+			<date day="" month="" year="1682" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ElisabethLang1686</personref>
+			<date day="" month="" year="1686" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ACathLang1689</personref>
+			<date day="" month="" year="1689" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AlbertLang1633</personref>
+			<date day="" month="" year="1633" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßLang1590</personref>
+			<date day="" month="" year="1590" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JLWalther1785</personref>
+			<date day="" month="" year="1785" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AKSchäfer1791</personref>
+			<date day="" month="" year="1791" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohNikBischoff1743</personref>
+			<date day="" month="" year="1743" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HansPeterArnold1668</personref>
+			<date day="" month="" year="1668" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMariaArnold1665</personref>
+			<date day="" month="" year="1665" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßArnold1605</personref>
+			<date day="" month="" year="1605" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Arnold1628</personref>
+			<date day="" month="" year="1628" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßFriedrich1615</personref>
+			<date day="" month="" year="1615" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MargareteFriedrich</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>RegineRahmen1844</personref>
+			<date day="17" month="01" year="1847" type="exact"></date>
+			<place country="" city="Kirchtroisdorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>SebastianSchmitz</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MariaCathSchmitz</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MClaraRahmen</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßArnold1570</personref>
+			<date day="" month="" year="1570" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>FriedrichLinden</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GünterLang</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>UweLang</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>FerdinandSchulz</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PhilippSchulz</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>KlausSchulz</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AlmaLang</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1932</personref>
+			<date day="19" month="09" year="1932" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GiselaLang1931</personref>
+			<date day="01" month="12" year="1931" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>EdithLang1932</personref>
+			<date day="08" month="02" year="1932" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>RainerLang1944</personref>
+			<date day="03" month="06" year="1944" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanneloreLang1935</personref>
+			<date day="19" month="05" year="1935" type="exact"></date>
+			<place country="" city="Düseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>SonjaLang1941</personref>
+			<date day="24" month="09" year="1941" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BrunhildeLang1938</personref>
+			<date day="20" month="09" year="1938" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>DieterLang1940</personref>
+			<date day="20" month="01" year="1940" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnneliseLang1939</personref>
+			<date day="30" month="08" year="1939" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1964</personref>
+			<date day="08" month="04" year="1964" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>RalfLang1965</personref>
+			<date day="11" month="04" year="1965" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeikoLang1969</personref>
+			<date day="24" month="04" year="1969" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>FrankLang1973</personref>
+			<date day="05" month="04" year="1973" type="exact"></date>
+			<place country="" city="Düseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>IngeFalkenberg</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JakobFalkenberg</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AgnesWiejck</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>TheodorWijck1731</personref>
+			<date day="" month="" year="1731" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AgnesWijck</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MelchiorLang1581</personref>
+			<date day="12" month="11" year="1671" type="exact"></date>
+			<place country="" city="Affhöllerbach" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßLang1639</personref>
+			<date day="3" month="9" year="1729" type="exact"></date>
+			<place country="" city="Oberkinzig" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang</personref>
+			<date day="24" month="3" year="1737" type="exact"></date>
+			<place country="" city="Mommart" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ChristophLang1692</personref>
+			<date day="25" month="1" year="1757" type="exact"></date>
+			<place country="" city="Mommart" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ValentinLang1729</personref>
+			<date day="25" month="10" year="1770" type="exact"></date>
+			<place country="" city="Momart" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohannesLang1770</personref>
+			<date day="14" month="5" year="1828" type="exact"></date>
+			<place country="" city="Weitengesäß" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohNikLang1807</personref>
+			<date day="3" month="10" year="1867" type="exact"></date>
+			<place country="" city="Weitengesäß" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1845</personref>
+			<date day="24" month="6" year="1918" type="exact"></date>
+			<place country="" city="Rödelheim" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1874</personref>
+			<date day="01" month="05" year="1945" type="exact"></date>
+			<place country="Thüringen" city="Pfaffenrode" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeinrichLang</personref>
+			<date day="14" month="7" year="1984" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BarbaraLang18721873</personref>
+			<date day="" month="" year="1873" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ConradLang1878</personref>
+			<date day="" month="" year="1878" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BarbaraLang1879</personref>
+			<date day="" month="" year="1879" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Lang1844</personref>
+			<date day="" month="" year="1844" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ReginaLang1904</personref>
+			<date day="" month="" year="1944" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>CarolineLang1867</personref>
+			<date day="26" month="06" year="1940" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BarbaraLang1814</personref>
+			<date day="" month="" year="1888" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I9454e50742024dab98b0b94135df6945</personref>
+			<date day="" month="" year="1902" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I15795113b4744a249bd22f6c9de91b36</personref>
+			<date day="" month="" year="1911" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I98766daab2a146d48eaced967ef0b09e</personref>
+			<date day="12" month="09" year="1919" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ic4df87ed277947a5b1f38861ad2a4865</personref>
+			<date day="11" month="03" year="1889" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I498c06b4d1cd413bb24b7eeb763f65b7</personref>
+			<date day="16" month="02" year="1911" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I9374092f16f7417da3877028516607de</personref>
+			<date day="12" month="08" year="1950" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I698cea0a03794516a902dea94db85497</personref>
+			<date day="28" month="01" year="1966" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib95e09a18dd94d529adf35fb3b323226</personref>
+			<date day="20" month="08" year="2009" type="exact"></date>
+			<place country="Deutschland" city="Viersen" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I978ec5d8a87f4f39a4e6baa25c72523b</personref>
+			<date day="22" month="01" year="1955" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I5f5e0b76e997453ea1ebb8ba5d87bbff</personref>
+			<date day="08" month="11" year="1970" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I3eae7f0b143648e88dafbe6f24075f0a</personref>
+			<date day="14" month="01" year="1965" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib8b61980626f4429814f5cb89834f859</personref>
+			<date day="14" month="01" year="1960" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ia41e5579c65d4059a89e159b0e7b7e8b</personref>
+			<date day="25" month="05" year="1969" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ie97c95c12d114d74aead2b513482e141</personref>
+			<date day="23" month="01" year="1951" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I2ab2e73c789c410cb0dd28cdee47dd26</personref>
+			<date day="03" month="12" year="1965" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I0cc9b7646ab64c5dad04609ceb61e27b</personref>
+			<date day="" month="" year="1945" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Ib17e3a3ec107450f859eec6806146737</personref>
+			<date day="20" month="09" year="1922" type="exact"></date>
+			<place country="Slowenien" city="Laibach" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>If7d40599e59b414cba52ea4116b591e8</personref>
+			<date day="" month="" year="1911" type="exact"></date>
+			<place country="Deutschland" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I787e255b3f6b4c78b4be871f7d2e6d42</personref>
+			<date day="02" month="03" year="1969" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Icc77c65b441f45258063f13234d1fe1a</personref>
+			<date day="25" month="06" year="1968" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I6c724a91a80343ba846a7af3a6e61d15</personref>
+			<date day="14" month="08" year="1955" type="exact"></date>
+			<place country="Deutschland" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I839011b649354b0bb55ee52e630f2ebe</personref>
+			<date day="13" month="01" year="1979" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MariaWeißkopf1909</personref>
+			<date day="19" month="4" year="2001" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MariaAnnaLang1772</personref>
+			<date day="" month="" year="1836" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMarg1800</personref>
+			<date day="" month="" year="1850" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JGeorgLang1802</personref>
+			<date day="" month="" year="1833" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JLeonhardLang1805</personref>
+			<date day="" month="" year="1850" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>FranzAntonLang1810</personref>
+			<date day="" month="" year="1810" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ABarbaraLang1733</personref>
+			<date day="" month="" year="1772" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMariaLang1760</personref>
+			<date day="" month="" year="1840" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMargLang1761</personref>
+			<date day="" month="" year="1761" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMargLang1762</personref>
+			<date day="" month="" year="1830" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohGeorg1764</personref>
+			<date day="" month="" year="1771" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>EvaMariaLang1765</personref>
+			<date day="" month="" year="1766" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaReginaLang1724</personref>
+			<date day="" month="" year="1739" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MargLang1732</personref>
+			<date day="" month="" year="1735" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaLang1644</personref>
+			<date day="" month="" year="1706" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßLang1665</personref>
+			<date day="" month="" year="1721" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BarbaraLang1667</personref>
+			<date day="" month="" year="1708" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>BenedictLang1670</personref>
+			<date day="" month="" year="1671" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AdamLang1672</personref>
+			<date day="" month="" year="1743" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JGeorgLang1676</personref>
+			<date day="" month="" year="1736" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AnnaMargLang1679</personref>
+			<date day="" month="" year="1747" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JAdamLang1682</personref>
+			<date day="" month="" year="1740" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ElisabethLang1686</personref>
+			<date day="" month="" year="1686" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ACathLang1689</personref>
+			<date day="" month="" year="1758" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>AlbertLang1633</personref>
+			<date day="22" month="4" year="1693" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßLang1590</personref>
+			<date day="" month="" year="1638" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JLWalther1785</personref>
+			<date day="" month="" year="1816" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßArnold1605</personref>
+			<date day="" month="" year="1700" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>Arnold1628</personref>
+			<date day="" month="" year="1664" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßFriedrich1615</personref>
+			<date day="" month="" year="1646" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>EdithLang1932</personref>
+			<date day="" month="" year="1932" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>TheodorWijck1731</personref>
+			<date day="" month="" year="1819" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ValentinLang1729</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Michelstadt" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1845</personref>
+			<date day="29" month="9" year="1845" type="exact"></date>
+			<place country="" city="Erbach" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1874</personref>
+			<date day="8" month="11" year="1874" type="exact"></date>
+			<place country="" city="Rödelheim" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeinrichLang</personref>
+			<date day="24" month="10" year="1906" type="exact"></date>
+			<place country="" city="Aachen" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeinzLang23101934</personref>
+			<date day="29" month="10" year="1934" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I9374092f16f7417da3877028516607de</personref>
+			<date day="" month="" year="1879" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I698cea0a03794516a902dea94db85497</personref>
+			<date day="" month="" year="1902" type="exact"></date>
+			<place country="Deutschland" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I6c724a91a80343ba846a7af3a6e61d15</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Laibach" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>MelchiorLang1581</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Kilsbach" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HanßLang1639</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Kinzig" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Kinzig" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ChristophLang1692</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Mommart" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohannesLang1770</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Weitengesäß" zip="" street="Momarter Weg8"></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohNikLang1807</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Weitengesäß" zip="" street="Momarter Weg 8"></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1845</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Rödelheim" zip="" street="Ölmühlgasse 5"></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1845</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Rödelheim" zip="" street="Bahnhofstrasse 2"></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1874</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Aachen" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1874</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street="Wachholderweg 12"></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeinrichLang</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street="Ziegelstrasse 19"></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeinzLang23101934</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Düsseldorf" zip="" street="Collenbachstrasse 79"></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I0cc9b7646ab64c5dad04609ceb61e27b</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Düsseldorf Untergath" zip="43" street="Elfenweg"></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>a6cd6984-59a6-45a1-a040-35df6f049f27</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>acca46c5-b8ed-4796-afdb-885f8c21a414</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>UdoLang15071965</personref>
+			<date day="15" month="07" year="1965" type="exact"></date>
+			<place country="Deutschland" city="Düsseldorf" zip="" street=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>d4863dd8-cd96-45af-8c9a-567687bc1c5c</personref>
+			<date type="exact" year="1942" month="" day=""></date>
+			<place street="" zip="" city="Georgenberg" country="Ostpreussen"></place>
+			<text></text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JudithLang15121968</personref>
+			<date type="exact" year="1969" month="3" day="2"></date>
+			<place street="" zip="" city="Düsseldorf" country=""></place>
+			<text>Matthäuskirche</text>
+		</event>
+		<event type="baptism" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ThorstenNoreike18051970</personref>
+			<date type="exact" year="1971" month="7" day="18"></date>
+			<place street="" zip="" city="Walsrode" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>3bea4afd-e973-4833-80b6-e482736fdc36</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>f97037f7-8bb9-4780-9325-de535a256990</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>3bea4afd-e973-4833-80b6-e482736fdc36</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="Elbing" country="Ostpreussen"></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>3bea4afd-e973-4833-80b6-e482736fdc36</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HermannMitlehner</personref>
+			<date type="exact" year="1987" month="12" day="16"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GudrunNoreike27111945</personref>
+			<date type="exact" year="1967" month="" day=""></date>
+			<place street="Lindenstrasse 236" zip="" city="Düsseldorf" country="Deutschland"></place>
+			<text></text>
+		</event>
+		<event type="residence" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GerhardNoreike</personref>
+			<date type="exact" year="1967" month="" day=""></date>
+			<place street="Lindenstrasse 243" zip="" city="Düsseldorf" country="Deutschland"></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>c3ff3f8a-35d5-4708-89be-88a402ac0ac8</personref>
+			<date type="exact" year="1910" month="11" day="7"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>c3ff3f8a-35d5-4708-89be-88a402ac0ac8</personref>
+			<date type="exact" year="1997" month="3" day="12"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>c2cd50f8-35e6-421e-a844-4c3e3900aceb</personref>
+			<date type="exact" year="1877" month="6" day="15"></date>
+			<place street="" zip="" city="Niederleppersdorf" country=""></place>
+			<text>Landshut/ Schlesien</text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>030b24fa-94e2-4875-b94a-9afefd62bbf9</personref>
+			<date type="exact" year="1879" month="11" day="22"></date>
+			<place street="" zip="" city="Wittgendorf" country=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>c2cd50f8-35e6-421e-a844-4c3e3900aceb</personref>
+			<date type="exact" year="1956" month="4" day="30"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>030b24fa-94e2-4875-b94a-9afefd62bbf9</personref>
+			<date type="exact" year="1943" month="3" day="26"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>0e97f789-2727-4dce-9215-3c924efaf446</personref>
+			<date type="exact" year="1852" month="12" day="16"></date>
+			<place street="" zip="" city="Berlin" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>27068e1e-9513-4695-b7e9-f2c5a89c39a3</personref>
+			<date type="exact" year="1853" month="1" day="29"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>762f2410-8889-40ca-a813-79b0d1147967</personref>
+			<date type="exact" year="1844" month="6" day="6"></date>
+			<place street="" zip="" city="Wittgendorf" country="Schlesien"></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>0e3368e8-410f-4301-bf45-84cde7998765</personref>
+			<date type="exact" year="1845" month="10" day="18"></date>
+			<place street="" zip="" city="Wittgendorf" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>6b40c8c6-e113-481c-a985-52ff5bd0f437</personref>
+			<date type="exact" year="1883" month="10" day="30"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>4d1f5f25-d986-4b6b-8ba2-2e37ceb62e90</personref>
+			<date type="exact" year="1886" month="3" day="25"></date>
+			<place street="" zip="" city="Wolfersschwenda" country="Thüringen"></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>66b5d12c-daf4-4e62-9f15-d9c87be57e87</personref>
+			<date type="exact" year="1856" month="5" day="10"></date>
+			<place street="" zip="" city="Illmenau" country=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>66b5d12c-daf4-4e62-9f15-d9c87be57e87</personref>
+			<date type="exact" year="1930" month="7" day="21"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>162ea908-4f3e-4da1-90b7-09a8abc013f3</personref>
+			<date type="exact" year="1856" month="5" day="22"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>5f85184c-f12e-42b3-b093-6008e8f43ea0</personref>
+			<date type="exact" year="1851" month="8" day="25"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>5f85184c-f12e-42b3-b093-6008e8f43ea0</personref>
+			<date type="exact" year="1933" month="8" day="10"></date>
+			<place street="" zip="" city="Ufhoven" country="Thüringen"></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>0e2882df-50af-43e5-b579-8c1727fb7fb7</personref>
+			<date type="exact" year="1856" month="3" day="21"></date>
+			<place street="" zip="" city="Wolfersschwenda" country="Thüringen"></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>0e2882df-50af-43e5-b579-8c1727fb7fb7</personref>
+			<date type="exact" year="1922" month="5" day="9"></date>
+			<place street="" zip="" city="Sundhausen" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ac301345-cb36-40c5-a317-251aa8a91d07</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>1a0ad04b-9e2b-415c-86f7-96f8fae61cde</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>de1aa3c7-cf60-4db5-9ec4-1e462c261a5f</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>f07c73b8-1eca-4b81-a286-d1b1b7c8f89f</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>fbc9a159-c8ff-4803-8e0b-cc7cdec3f795</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>066de448-22ef-4d63-bc62-39b58db95da4</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>72698a32-20a5-42fd-8d05-15ac6d2f7c78</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>43b95755-d6ba-41bc-aa9d-9a5f8df3cb8c</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>486655b5-9bd9-4c7c-b974-f712f813f8cb</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>6b40c8c6-e113-481c-a985-52ff5bd0f437</personref>
+			<date type="exact" year="1961" month="1" day="14"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="death" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>4d1f5f25-d986-4b6b-8ba2-2e37ceb62e90</personref>
+			<date type="exact" year="1947" month="4" day="29"></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="graduation" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I698cea0a03794516a902dea94db85497</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="" zip="" street=""></place>
+			<text>Ausbildung als Tresorschlosser</text>
+		</event>
+		<event type="engagement" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I698cea0a03794516a902dea94db85497</personref>
+			<date day="" month="" year="" type="exact"></date>
+			<place country="" city="Neuss" zip="" street=""></place>
+			<text>Thelen und Co.
+				Werkzeugmacher
+				Arbeiten für Henschel
+			</text>
+		</event>
+		<event type="birth">
+			<personref>4ef3ee27-947f-42eb-b369-278b0afdf5c0</personref>
+			<date type="exact" year="1904" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+		<event type="birth">
+			<personref>cbd4dfd4-45a8-427b-9b32-dccb52aa8b5a</personref>
+			<date type="exact" year="" month="" day=""></date>
+			<place street="" zip="" city="" country=""></place>
+			<text></text>
+		</event>
+	</events>
+	<infos xmlns="http://www.w3.org/1999/xhtml">
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang</personref>
+			<text>Schäfer</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ChristophLang1692</personref>
+			<text>Schäfer</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>ValentinLang1729</personref>
+			<text>Schäfer</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohannesLang1770</personref>
+			<text>Schäfer</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>JohNikLang1807</personref>
+			<text>Maurer</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1845</personref>
+			<text>Maurer</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>PeterLang1874</personref>
+			<text>Maurer</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeinrichLang</personref>
+			<text>Rohrprüfer bei Mannesmann</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>HeinzLang23101934</personref>
+			<text>Speditionskaufmann</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I98766daab2a146d48eaced967ef0b09e</personref>
+			<text>Stukkateur</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>I698cea0a03794516a902dea94db85497</personref>
+			<text>Schlosser</text>
+		</info>
+		<info type="other" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>d4863dd8-cd96-45af-8c9a-567687bc1c5c</personref>
+			<text>Vertrieben aus Ostpreussen. Geflüchtet mit dem Schiff nach
+				Dänemark. Beinahe in die Gustloff gestiegen. </text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GerhardNoreike</personref>
+			<text>Elektroingenieur</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>GudrunNoreike27111945</personref>
+			<text>technische Zeichnerin</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>66b5d12c-daf4-4e62-9f15-d9c87be57e87</personref>
+			<text>Brauerreigehilfe</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>6b40c8c6-e113-481c-a985-52ff5bd0f437</personref>
+			<text>Bierbrauer</text>
+		</info>
+		<info type="profession" xmlns="http://www.w3.org/1999/xhtml">
+			<personref>5f85184c-f12e-42b3-b093-6008e8f43ea0</personref>
+			<text>Schulmeister</text>
+		</info>
+		<docs xmlns="http://www.w3.org/1999/xhtml">
+			<doc type="portraitpicture">
+				<personref>GudrunNoreike27111945</personref>
+				<resource>http://lh6.googleusercontent.com/VSaFHaJZc3DNzZUCpLk9yK6iXVAILocyLP60GxCULWo=w167-h235-p-no
+				</resource>
+				<thumbnail>http://lh6.googleusercontent.com/VSaFHaJZc3DNzZUCpLk9yK6iXVAILocyLP60GxCULWo=w167-h235-p-no
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>c3ff3f8a-35d5-4708-89be-88a402ac0ac8</personref>
+				<title>Elli Mitlehner</title>
+				<resource>http://lh4.googleusercontent.com/U9mAO8jjpXRw9xHZhXxYYt6ULH1PyqRFkf4V5bj2foU=w184-h234-p-no
+				</resource>
+				<thumbnail>http://lh4.googleusercontent.com/U9mAO8jjpXRw9xHZhXxYYt6ULH1PyqRFkf4V5bj2foU=w184-h234-p-no
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>HermannMitlehner</personref>
+				<title>Hermann Mitlehner</title>
+				<resource>http://lh4.googleusercontent.com/nilXk0n4Y8YdvHdiRHMuWBNDE7NiMKGzTCHBM0mZhCg=w168-h234-p-no
+				</resource>
+				<thumbnail>http://lh4.googleusercontent.com/nilXk0n4Y8YdvHdiRHMuWBNDE7NiMKGzTCHBM0mZhCg=w168-h234-p-no
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>c2cd50f8-35e6-421e-a844-4c3e3900aceb</personref>
+				<title>Otto Mitlehner</title>
+				<resource>http://lh6.googleusercontent.com/vpDxJQ_kPkpbUjjmRLKEzBu0K5MIHXF0flPDgxQ4PGQ=w144-h237-p-no
+				</resource>
+				<thumbnail>http://lh6.googleusercontent.com/vpDxJQ_kPkpbUjjmRLKEzBu0K5MIHXF0flPDgxQ4PGQ=w144-h237-p-no
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>030b24fa-94e2-4875-b94a-9afefd62bbf9</personref>
+				<title>Anna Maria Mitlehner</title>
+				<resource>http://lh4.googleusercontent.com/8PUqla-K97W-M9RDlzIsbvLwm5xXtMhueed-tBu4HUM=w167-h237-p-no
+				</resource>
+				<thumbnail>http://lh4.googleusercontent.com/8PUqla-K97W-M9RDlzIsbvLwm5xXtMhueed-tBu4HUM=w167-h237-p-no
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>6b40c8c6-e113-481c-a985-52ff5bd0f437</personref>
+				<title>Theodor Anton Hoffmann</title>
+				<resource>http://lh4.googleusercontent.com/5Oh-XdPCNwqNGpBE0vDjKUnuGEPtrklV53NPgFI6r7s=w157-h235-p-no
+				</resource>
+				<thumbnail>http://lh4.googleusercontent.com/5Oh-XdPCNwqNGpBE0vDjKUnuGEPtrklV53NPgFI6r7s=w157-h235-p-no
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>HeinrichLang</personref>
+				<title></title>
+				<resource>http://lh3.googleusercontent.com/-S7jUw5UcLnI/U6KbER83FbI/AAAAAAAAFDY/R9hEY8N6SE0/w504-h631-no/Lang+Heinrich+1906-Portrait.jpg
+				</resource>
+				<thumbnail>http://lh3.googleusercontent.com/-S7jUw5UcLnI/U6KbER83FbI/AAAAAAAAFDY/R9hEY8N6SE0/w504-h631-no/Lang+Heinrich+1906-Portrait.jpg
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>ReginaLang1904</personref>
+				<title></title>
+				<resource>http://lh4.googleusercontent.com/-cigIsPSQHUU/U6KbOmgIDaI/AAAAAAAAFEM/yX_VanaUhSg/w504-h647-no/Lang+Regina+1904_Portrait2.jpg
+				</resource>
+				<thumbnail>http://lh4.googleusercontent.com/-cigIsPSQHUU/U6KbOmgIDaI/AAAAAAAAFEM/yX_VanaUhSg/w504-h647-no/Lang+Regina+1904_Portrait2.jpg
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>NinaLang17041997</personref>
+				<title></title>
+				<resource>http://lh6.googleusercontent.com/-VCg4FdKJmtU/U6U4bCR57GI/AAAAAAAAFJI/WeVva2DJ0Ag/w544-h670-no/Lang+Nina+1997-Portrait.jpg			</resource>
+				<thumbnail>http://lh6.googleusercontent.com/-VCg4FdKJmtU/U6U4bCR57GI/AAAAAAAAFJI/WeVva2DJ0Ag/w544-h670-no/Lang+Nina+1997-Portrait.jpg			</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>GerhardNoreike</personref>
+				<title></title>
+				<resource>http://lh6.googleusercontent.com/-pRaCQu6_-E0/U6POxdvPe-I/AAAAAAAAFFo/uRaWu8MZZzk/w722-h756-no/Noreike+Gerd++1936-Portrait.jpg
+				</resource>
+				<thumbnail>http://lh6.googleusercontent.com/-pRaCQu6_-E0/U6POxdvPe-I/AAAAAAAAFFo/uRaWu8MZZzk/w722-h756-no/Noreike+Gerd++1936-Portrait.jpg
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>MaikeLang27081999</personref>
+				<title></title>
+				<resource>http://lh5.googleusercontent.com/-jz68KtxQRVk/U6U18sIA7aI/AAAAAAAAFHo/0Y6_ExEt2w4/w454-h573-no/Lang+Maike+1999-Portrait.jpg
+				</resource>
+				<thumbnail>http://lh5.googleusercontent.com/-jz68KtxQRVk/U6U18sIA7aI/AAAAAAAAFHo/0Y6_ExEt2w4/w454-h573-no/Lang+Maike+1999-Portrait.jpg
+				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>UdoLang15071965</personref>
+				<title></title>
+				<resource>http://lh3.googleusercontent.com/-BRUcb855CQ0/U6beOkmsFVI/AAAAAAAAFNM/7eCD7ac9rXY/w433-h562-no/Lang+Udo+1965-Portrait2.jpg			</resource>
+				<thumbnail>http://lh3.googleusercontent.com/-BRUcb855CQ0/U6beOkmsFVI/AAAAAAAAFNM/7eCD7ac9rXY/w433-h562-no/Lang+Udo+1965-Portrait2.jpg		</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>JudithLang15121968</personref>
+				<title></title>
+				<resource>http://lh4.googleusercontent.com/-TkKEYxeEc04/U6U3Ks_CcMI/AAAAAAAAFIY/8_UC90V_UsE/w466-h588-no/Lang+Judith+1968-Portrait.jpg				</resource>
+				<thumbnail>http://lh4.googleusercontent.com/-TkKEYxeEc04/U6U3Ks_CcMI/AAAAAAAAFIY/8_UC90V_UsE/w466-h588-no/Lang+Judith+1968-Portrait.jpg				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+			<doc type="portraitpicture">
+				<personref>4ef3ee27-947f-42eb-b369-278b0afdf5c0</personref>
+				<title></title>
+				<resource>http://lh6.googleusercontent.com/-SgNnLrJ5aHA/U6WTmZuTf2I/AAAAAAAAFLM/ZdXMfsAm-T0/w271-h331-no/Weyermanns+Elisabeth+1934-Portrait.jpg				</resource>
+				<thumbnail>http://lh6.googleusercontent.com/-SgNnLrJ5aHA/U6WTmZuTf2I/AAAAAAAAFLM/ZdXMfsAm-T0/w271-h331-no/Weyermanns+Elisabeth+1934-Portrait.jpg				</thumbnail>
+				<owner>
+					<personref></personref>
+					<text></text>
+				</owner>
+				<date type="exact" year="" month="" day=""></date>
+				<place street="" zip="" city="" country=""></place>
+				<text></text>
+			</doc>
+		<doc type="portraitpicture"><personref>cbd4dfd4-45a8-427b-9b32-dccb52aa8b5a</personref><title></title><resource>http://lh6.googleusercontent.com/-eorQ03BqyRM/U6WTjX-ebqI/AAAAAAAAFLE/2SkL6UoDRjw/w332-h419-no/Lang+Henriette-Portrait.jpg</resource><thumbnail>http://lh6.googleusercontent.com/-eorQ03BqyRM/U6WTjX-ebqI/AAAAAAAAFLE/2SkL6UoDRjw/w332-h419-no/Lang+Henriette-Portrait.jpg</thumbnail><owner><personref></personref><text></text></owner><date day="" month="" year="" type="exact"></date><place country="" city="" zip="" street=""></place><text></text></doc></docs>
+	</infos>
+	<relationships xmlns="http://www.w3.org/1999/xhtml">
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="LeonhardLang"></father>
+			<mother idref=""></mother>
+			<child idref="MelchiorLang1581"></child>
+			<child idref="HanßLang1590"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="MelchiorLang1581"></father>
+			<mother idref=""></mother>
+			<child idref="AlbertLang1633"></child>
+			<child idref="HanßLang1639"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="HanßLang1639"></father>
+			<mother idref="AnnaLang1644"></mother>
+			<child idref="PeterLang"></child>
+			<child idref="HanßLang1665"></child>
+			<child idref="BarbaraLang1667"></child>
+			<child idref="BenedictLang1670"></child>
+			<child idref="AdamLang1672"></child>
+			<child idref="Marg1675"></child>
+			<child idref="JGeorgLang1676"></child>
+			<child idref="AnnaMargLang1679"></child>
+			<child idref="JAdamLang1682"></child>
+			<child idref="ElisabethLang1686"></child>
+			<child idref="ACathLang1689"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="PeterLang"></father>
+			<mother idref="AnnaMariaLang1667"></mother>
+			<child idref="ChristophLang1692"></child>
+			<child idref="HanßLeonhardLang1701"></child>
+			<child idref="AnnaOtilieLang1703"></child>
+			<child idref="MariaMarthaLang1706"></child>
+			<child idref="EvaKathLang1711"></child>
+			<child idref="JohAdam1711"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="ChristophLang1692"></father>
+			<mother idref="MariaAgLang1697"></mother>
+			<child idref="AnnaReginaLang1724"></child>
+			<child idref="ValentinLang1729"></child>
+			<child idref="MargLang1732"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="ValentinLang1729"></father>
+			<mother idref="ABarbaraLang1733"></mother>
+			<child idref="AnnaMariaLang1760"></child>
+			<child idref="AnnaMargLang1761"></child>
+			<child idref="AnnaMargLang1762"></child>
+			<child idref="JohGeorg1764"></child>
+			<child idref="EvaMariaLang1765"></child>
+			<child idref="CathElisabeth1767"></child>
+			<child idref="JohannesLang1770"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JohannesLang1770"></father>
+			<mother idref="MariaAnnaLang1772"></mother>
+			<child idref="AnnaMarg1800"></child>
+			<child idref="JGeorgLang1802"></child>
+			<child idref="JLeonhardLang1805"></child>
+			<child idref="JohNikLang1807"></child>
+			<child idref="FranzAntonLang1810"></child>
+			<child idref="JValentLang1811"></child>
+			<child idref="TotgeburtLang1814"></child>
+			<child idref="Totgeburt1815"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JohNikLang1807"></father>
+			<mother idref="BarbaraLang1814"></mother>
+			<child idref="AnnaKathLang1834"></child>
+			<child idref="MariaKathLang1837"></child>
+			<child idref="JohannesLang1839"></child>
+			<child idref="JLeonhardLang1841"></child>
+			<child idref="Lang1844"></child>
+			<child idref="PeterLang1845"></child>
+			<child idref="AnnaBarbaraLang1849"></child>
+			<child idref="JohJakLang1853"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="PeterLang1845"></father>
+			<mother idref="CarolineLang"></mother>
+			<child idref="JohannesLang1871"></child>
+			<child idref="BarbaraLang18721873"></child>
+			<child idref="PeterLang1874"></child>
+			<child idref="ConradLang1878"></child>
+			<child idref="BarbaraLang1879"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="PeterLang1874"></father>
+			<mother idref="CarolineLang1867"></mother>
+			<child idref="PeterSohnvonPeterLang1874Lang"></child>
+			<child idref="HeinrichLang"></child>
+			<child idref="MagdalenaTochtervonPeterLang1874Lang"></child>
+			<child idref="MariaTochtervonPeterLang1874Lang"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="HeinrichLang"></father>
+			<mother idref="ReginaLang1904"></mother>
+			<child idref="HeinzLang23101934"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="HeinzLang23101934"></father>
+			<mother idref="UrsulaLang1936"></mother>
+			<child idref="VolkerLang08101961"></child>
+			<child idref="UdoLang15071965"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="UdoLang15071965"></father>
+			<mother idref="JudithLang15121968"></mother>
+			<child idref="NinaLang17041997"></child>
+			<child idref="MaikeLang27081999"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="PeterSohnvonPeterLang1874Lang"></father>
+			<mother idref="AlmaLang"></mother>
+			<child idref="GiselaLang1931"></child>
+			<child idref="EdithLang1932"></child>
+			<child idref="PeterLang1932"></child>
+			<child idref="HanneloreLang1935"></child>
+			<child idref="BrunhildeLang1938"></child>
+			<child idref="DieterLang1940"></child>
+			<child idref="SonjaLang1941"></child>
+			<child idref="RainerLang1944"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="GerhardNoreike"></father>
+			<mother idref="GudrunNoreike27111945"></mother>
+			<child idref="JudithLang15121968"></child>
+			<child idref="ThorstenNoreike18051970"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="PhilippWyck"></father>
+			<mother idref="GertrudWyck"></mother>
+			<child idref="JosephWyck1819"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JosephWyck1819"></father>
+			<mother idref="AnjaBarbaraWyck"></mother>
+			<child idref="GertrudWyck1854"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref=""></father>
+			<mother idref="GertrudWyck1854"></mother>
+			<child idref="PeterJosefWieck1875"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="PeterJosefWieck1875"></father>
+			<mother idref="SophiaWieck1878"></mother>
+			<child idref="ReginaLang1904"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JMathRahmen1792"></father>
+			<mother idref="AnnaMariaRahmen"></mother>
+			<child idref="JJohRahmen"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JJohRahmen"></father>
+			<mother idref="MClaraRahmen"></mother>
+			<child idref="JRahmen1844"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JRahmen1844"></father>
+			<mother idref="RegineRahmen1844"></mother>
+			<child idref="SophiaWieck1878"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JHeinrichClaßen"></father>
+			<mother idref="AnnaClaraClaßen"></mother>
+			<child idref="JMathiasClaßen1828"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JMathiasClaßen1828"></father>
+			<mother idref="ElisClaßen1832"></mother>
+			<child idref="CarolineLang1867"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="VaterElisClaßenMoll"></father>
+			<mother idref=""></mother>
+			<child idref="ElisClaßen1832"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="HermannMitlehner"></father>
+			<mother idref="c3ff3f8a-35d5-4708-89be-88a402ac0ac8"></mother>
+			<child idref="GudrunNoreike27111945"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I698cea0a03794516a902dea94db85497"></father>
+			<mother idref="MariaWeißkopf1909"></mother>
+			<child idref="UrsulaLang1936"></child>
+			<child idref="Ib95e09a18dd94d529adf35fb3b323226"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JLWalther1785"></father>
+			<mother idref="AKSchäfer1791"></mother>
+			<child idref="BarbaraLang1814"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JohNikBischoff1743"></father>
+			<mother idref=""></mother>
+			<child idref="ABarbaraLang1733"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="HansPeterArnold1668"></father>
+			<mother idref="AnnaMariaArnold1665"></mother>
+			<child idref="MariaAgLang1697"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="HanßArnold1605"></father>
+			<mother idref="Arnold1628"></mother>
+			<child idref="HansPeterArnold1668"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="HanßFriedrich1615"></father>
+			<mother idref="MargareteFriedrich"></mother>
+			<child idref="AnnaLang1644"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="SebastianSchmitz"></father>
+			<mother idref="MariaCathSchmitz"></mother>
+			<child idref="RegineRahmen1844"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="HanßArnold1570"></father>
+			<mother idref=""></mother>
+			<child idref="HanßArnold1605"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="FriedrichLinden"></father>
+			<mother idref="MagdalenaTochtervonPeterLang1874Lang"></mother>
+			<child idref="GünterLang"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="GünterLang"></father>
+			<mother idref=""></mother>
+			<child idref="UweLang"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="FerdinandSchulz"></father>
+			<mother idref="MariaTochtervonPeterLang1874Lang"></mother>
+			<child idref="PhilippSchulz"></child>
+			<child idref="KlausSchulz"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="DieterLang1940"></father>
+			<mother idref="AnneliseLang1939"></mother>
+			<child idref="PeterLang1964"></child>
+			<child idref="RalfLang1965"></child>
+			<child idref="HeikoLang1969"></child>
+			<child idref="FrankLang1973"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="JakobFalkenberg"></father>
+			<mother idref="MagdalenaTochtervonPeterLang1874Lang"></mother>
+			<child idref="IngeFalkenberg"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="TheodorWijck1731"></father>
+			<mother idref="AgnesWiejck"></mother>
+			<child idref="PhilippWyck"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref=""></father>
+			<mother idref="AgnesWijck"></mother>
+			<child idref="TheodorWijck1731"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I98766daab2a146d48eaced967ef0b09e"></father>
+			<mother idref="I9374092f16f7417da3877028516607de"></mother>
+			<child idref="I698cea0a03794516a902dea94db85497"></child>
+			<child idref="I5cfb6254d372479292416c0f242e8ba9"></child>
+			<child idref="Ib7401d149b6a485689f4e20f146a1faf"></child>
+			<child idref="Ic520d00e187e45a695041f64b8771232"></child>
+			<child idref="I3100bd4aedf049e2803893cb2effc0a8"></child>
+			<child idref="a6cd6984-59a6-45a1-a040-35df6f049f27"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I9454e50742024dab98b0b94135df6945"></father>
+			<mother idref="I15795113b4744a249bd22f6c9de91b36"></mother>
+			<child idref="I98766daab2a146d48eaced967ef0b09e"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I4247608fa1cb40c9894da20c748eecaf"></father>
+			<mother idref="I3100bd4aedf049e2803893cb2effc0a8"></mother>
+			<child idref="If67184c0fe7a4559a21f99d7e86e197a"></child>
+			<child idref="I009a547f7f474eed8899f39e659c3497"></child>
+			<child idref="I5ebeaf93a34d414aa5e7ce8b0d9a2a4d"></child>
+			<child idref="Id10ade45eb9f40319fc6bfba0fbd4a4d"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="If67184c0fe7a4559a21f99d7e86e197a"></father>
+			<mother idref="I81d9142d212d4c7cbf7c2ae3a5695d4d"></mother>
+			<child idref="Ib30ea5a3bb774296bdb97d1a4aabf734"></child>
+			<child idref="Ieded066886a54e5e866ea934adeba4e3"></child>
+			<child idref="I5e874a1190404d538741012c59566bd9"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I5ebeaf93a34d414aa5e7ce8b0d9a2a4d"></father>
+			<mother idref="I7ee8ced2f33f482591ce1de544a7fe47"></mother>
+			<child idref="Ib43845791384423bb5b811e61a3a59f0"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ia70d8d776e374b298dff453900c1db58"></father>
+			<mother idref="Id10ade45eb9f40319fc6bfba0fbd4a4d"></mother>
+			<child idref="I396ec6bf210649a1bc67dfc08c4ed7ed"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I3bfb77dd6cef4075a45d9717986baf5c"></father>
+			<mother idref="I5cfb6254d372479292416c0f242e8ba9"></mother>
+			<child idref="I1d21964d9a1348918a92a2873ed89179"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ic4df87ed277947a5b1f38861ad2a4865"></father>
+			<mother idref="I498c06b4d1cd413bb24b7eeb763f65b7"></mother>
+			<child idref="I9374092f16f7417da3877028516607de"></child>
+			<child idref="Ice24d4598c1d4a70a0af7aacfabc34a7"></child>
+			<child idref="I10748b233fdc46738863484421cecc24"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I10748b233fdc46738863484421cecc24"></father>
+			<mother idref="Iafcfc831f5ac4d6183931320e5039e3a"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I51c1be9fe1624862968997411828fe0e"></father>
+			<mother idref="I10748b233fdc46738863484421cecc24"></mother>
+			<child idref="I78b8d275fcfc413e953983a6e4e87739"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ib95e09a18dd94d529adf35fb3b323226"></father>
+			<mother idref="Idaea86e5c4794860b9d61a8da3be42ac"></mother>
+			<child idref="I83607a3c8e694bcc8cc74615370da8e2"></child>
+			<child idref="I88578e3452734d0e945d087d86148f36"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I168d5e8b07654b4ea81e8daa53e4663c"></father>
+			<mother idref="I83607a3c8e694bcc8cc74615370da8e2"></mother>
+			<child idref="I6702a525ec62447c80e2d901bd4047c9"></child>
+			<child idref="If8e95dce395542cfb469bd8c30c276b5"></child>
+			<child idref="I2b5fa51d43144b8ea0b809bcb39abb85"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I6c724a91a80343ba846a7af3a6e61d15"></father>
+			<mother idref="I839011b649354b0bb55ee52e630f2ebe"></mother>
+			<child idref="MariaWeißkopf1909"></child>
+			<child idref="I787e255b3f6b4c78b4be871f7d2e6d42"></child>
+			<child idref="I92029e6316fe4a0badfd65e8cae643f8"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ib17e3a3ec107450f859eec6806146737"></father>
+			<mother idref="If7d40599e59b414cba52ea4116b591e8"></mother>
+			<child idref="I6c724a91a80343ba846a7af3a6e61d15"></child>
+			<child idref="I978ec5d8a87f4f39a4e6baa25c72523b"></child>
+			<child idref="I587a64f4fcd14dd4a80acb1d5dfe847e"></child>
+			<child idref="Ieac42977d99d4746b376045efe1a9b2f"></child>
+			<child idref="Ib8b61980626f4429814f5cb89834f859"></child>
+			<child idref="Ia41e5579c65d4059a89e159b0e7b7e8b"></child>
+			<child idref="I774c9b0115c74a9b9eef122d18c5089b"></child>
+			<child idref="Ie97c95c12d114d74aead2b513482e141"></child>
+			<child idref="I0cc9b7646ab64c5dad04609ceb61e27b"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref=""></father>
+			<mother idref=""></mother>
+			<child idref="If7d40599e59b414cba52ea4116b591e8"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I4a898fb3f13b4bd6a4b83750e473bf9e"></father>
+			<mother idref="If7d8f06557d34d5b9bca0c76f837afb1"></mother>
+			<child idref="Ib17e3a3ec107450f859eec6806146737"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I978ec5d8a87f4f39a4e6baa25c72523b"></father>
+			<mother idref="I1d0707d8df764fd18bd88282dab45711"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I587a64f4fcd14dd4a80acb1d5dfe847e"></father>
+			<mother idref="I3bc93ee78697425d97822c2eb4ea6558"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ieac42977d99d4746b376045efe1a9b2f"></father>
+			<mother idref="I5f5e0b76e997453ea1ebb8ba5d87bbff"></mother>
+			<child idref="Ic64eb5fbd3ed4e869ff1cbb64400b3d0"></child>
+			<child idref="I3eae7f0b143648e88dafbe6f24075f0a"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ib8b61980626f4429814f5cb89834f859"></father>
+			<mother idref="I53a28787f1144dc995aeaba5ed574fa8"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ia41e5579c65d4059a89e159b0e7b7e8b"></father>
+			<mother idref="Iaa7509aa6b88461f98fd71f53895b7a4"></mother>
+			<child idref="I5ff94a63949d464abdacdd3d8e6d19dd"></child>
+			<child idref="I8ec99eaec84b42fe97d489953cc3c33e"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I774c9b0115c74a9b9eef122d18c5089b"></father>
+			<mother idref="Ic36df2e19f1e4650b1265ac5e7ccec77"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ie97c95c12d114d74aead2b513482e141"></father>
+			<mother idref="I6f7f0d42bb7347488023a796aff93340"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I570ba3a21c7f4705b4787746b2698977"></father>
+			<mother idref="Ie97c95c12d114d74aead2b513482e141"></mother>
+			<child idref="I4cf8c029b1874763b5203a7db06a8c7c"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I0cc9b7646ab64c5dad04609ceb61e27b"></father>
+			<mother idref="I2ab2e73c789c410cb0dd28cdee47dd26"></mother>
+			<child idref="I22c29b74b8f6455e8d475a9611a55e64"></child>
+			<child idref="Ie8e371b115544f338b9f3d1ad9c6697b"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I21bc00373ad54ba490dbd63e03e27f12"></father>
+			<mother idref="I5ff94a63949d464abdacdd3d8e6d19dd"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I8ec99eaec84b42fe97d489953cc3c33e"></father>
+			<mother idref="I77d1b95c6dd143f1954af4fab3ad675a"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ie3fe489ceb5842d08962b4856c271576"></father>
+			<mother idref="I8ec99eaec84b42fe97d489953cc3c33e"></mother>
+			<child idref="I7541d45ba4564ea1839ee22c2f4a6558"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I3eae7f0b143648e88dafbe6f24075f0a"></father>
+			<mother idref="I0f83a7e05c5342908280c1a347aa30bd"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ie82b32fef0824f7e827db6e1c4d2491d"></father>
+			<mother idref="Ic64eb5fbd3ed4e869ff1cbb64400b3d0"></mother>
+			<child idref="If2a8caa53ac44f42925608e380465669"></child>
+			<child idref="I880c12fb3f6949858029bc434b49913f"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I880c12fb3f6949858029bc434b49913f"></father>
+			<mother idref="I958bb2a22730482cb9837ea4eb9cb33e"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I787e255b3f6b4c78b4be871f7d2e6d42"></father>
+			<mother idref="Id2b29982f16d4954a02414a23cc0b4d6"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I92029e6316fe4a0badfd65e8cae643f8"></father>
+			<mother idref="I9d05463960934db0a1d335cf82292f2f"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Icc77c65b441f45258063f13234d1fe1a"></father>
+			<mother idref="I92029e6316fe4a0badfd65e8cae643f8"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I22c29b74b8f6455e8d475a9611a55e64"></father>
+			<mother idref="Ib3bee6aa9f454e238f1f7732d34ca4ba"></mother>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="Ic57c62eedf684f55b7668bf8cb0e2092"></father>
+			<mother idref="I22c29b74b8f6455e8d475a9611a55e64"></mother>
+			<child idref="I82f6589d0c6548169b231779e34cfb24"></child>
+		</relationship>
+		<relationship type="biological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I82f6589d0c6548169b231779e34cfb24"></father>
+			<mother idref="Ic93cca488f9f4254b2bd7f0994ca3b30"></mother>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="I9101ad49d5c0448a89f18dd689e365ca"></father>
+			<mother idref="Ic5d1094ae74a4a8fb84d72fb7753d667"></mother>
+			<child idref="I839011b649354b0bb55ee52e630f2ebe"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref=""></father>
+			<mother idref="a6cd6984-59a6-45a1-a040-35df6f049f27"></mother>
+			<child idref="acca46c5-b8ed-4796-afdb-885f8c21a414"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="HeinzLang23101934"></father>
+			<mother idref="d4863dd8-cd96-45af-8c9a-567687bc1c5c"></mother>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="3bea4afd-e973-4833-80b6-e482736fdc36"></father>
+			<mother idref="f97037f7-8bb9-4780-9325-de535a256990"></mother>
+			<child idref="GerhardNoreike"></child>
+			<child idref="ac301345-cb36-40c5-a317-251aa8a91d07"></child>
+			<child idref="1a0ad04b-9e2b-415c-86f7-96f8fae61cde"></child>
+			<child idref="de1aa3c7-cf60-4db5-9ec4-1e462c261a5f"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="c2cd50f8-35e6-421e-a844-4c3e3900aceb"></father>
+			<mother idref="030b24fa-94e2-4875-b94a-9afefd62bbf9"></mother>
+			<child idref="HermannMitlehner"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="0e97f789-2727-4dce-9215-3c924efaf446"></father>
+			<mother idref="27068e1e-9513-4695-b7e9-f2c5a89c39a3"></mother>
+			<child idref="c2cd50f8-35e6-421e-a844-4c3e3900aceb"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="762f2410-8889-40ca-a813-79b0d1147967"></father>
+			<mother idref="0e3368e8-410f-4301-bf45-84cde7998765"></mother>
+			<child idref="030b24fa-94e2-4875-b94a-9afefd62bbf9"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="6b40c8c6-e113-481c-a985-52ff5bd0f437"></father>
+			<mother idref="4d1f5f25-d986-4b6b-8ba2-2e37ceb62e90"></mother>
+			<child idref="c3ff3f8a-35d5-4708-89be-88a402ac0ac8"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="66b5d12c-daf4-4e62-9f15-d9c87be57e87"></father>
+			<mother idref="162ea908-4f3e-4da1-90b7-09a8abc013f3"></mother>
+			<child idref="6b40c8c6-e113-481c-a985-52ff5bd0f437"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="5f85184c-f12e-42b3-b093-6008e8f43ea0"></father>
+			<mother idref="0e2882df-50af-43e5-b579-8c1727fb7fb7"></mother>
+			<child idref="4d1f5f25-d986-4b6b-8ba2-2e37ceb62e90"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="de1aa3c7-cf60-4db5-9ec4-1e462c261a5f"></father>
+			<mother idref="f07c73b8-1eca-4b81-a286-d1b1b7c8f89f"></mother>
+			<child idref="fbc9a159-c8ff-4803-8e0b-cc7cdec3f795"></child>
+			<child idref="066de448-22ef-4d63-bc62-39b58db95da4"></child>
+		</relationship>
+		<relationship type="byological" xmlns="http://www.w3.org/1999/xhtml">
+			<father idref="72698a32-20a5-42fd-8d05-15ac6d2f7c78"></father>
+			<mother idref="fbc9a159-c8ff-4803-8e0b-cc7cdec3f795"></mother>
+			<child idref="43b95755-d6ba-41bc-aa9d-9a5f8df3cb8c"></child>
+			<child idref="486655b5-9bd9-4c7c-b974-f712f813f8cb"></child>
+		</relationship>
+		<relationship type="byological">
+			<father idref=""></father>
+			<mother idref="cbd4dfd4-45a8-427b-9b32-dccb52aa8b5a"></mother>
+			<child idref="4ef3ee27-947f-42eb-b369-278b0afdf5c0"></child>
+		</relationship>
+	<relationship type="byological"><father idref="HeinrichLang"></father><mother idref="cbd4dfd4-45a8-427b-9b32-dccb52aa8b5a"></mother></relationship></relationships>
+	<contacts xmlns="http://www.w3.org/1999/xhtml">
+		<contact type="person" id="0815" xmlns="http://www.w3.org/1999/xhtml">
+			<name>Udo Lang</name>
+			<address>
+				<street>Büdericher Str.35</street>
+				<postalcode>41564</postalcode>
+				<city>Kaarst</city>
+				<state>NRW</state>
+				<country>Germany</country>
+			</address>
+		</contact>
+	</contacts>
+</gedx>

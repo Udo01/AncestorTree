@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>GedX</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+	.mainnavbar .ui-btn { padding-top: 40px !important; }
+	.mainnavbar .ui-btn:after { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+	.listBtn:after { background:  url("icons/list1.png") 50% 50% no-repeat; background-size: 24px 22px; }
+	.ancBtn:after { background:  url("icons/anc1.png") 50% 50% no-repeat; background-size: 24px 22px; }
+	.descBtn:after { background:  url("icons/desc1.png") 50% 50% no-repeat; background-size: 24px 22px; }
+	.famBtn:after { background:  url("icons/fam1.png") 50% 50% no-repeat; background-size: 24px 22px; }
+	.persBtn:after { background:  url("icons/pers1.png") 50% 50% no-repeat; background-size: 24px 22px; }
+</style>
+
+	<!--jquery-->
+	<link rel="stylesheet" href="js/libs/jqm/jquery.mobile-1.4.0.min.css" />
+	<script src="js/libs/jq/jquery-1.10.2.min.js"></script>
+	<!-- <script src="js/libs/jq/jquery-ui-1.10.4.custom.min.js"></script> -->
+	<script src="js/libs/jqm/jquery.mobile-1.4.0.min.js"></script>
+
+<!-- jit tree -->
+<script language="javascript" type="text/javascript" src="js/plugins/jit/jit.js"></script>
+<link type="text/css" href="js/plugins/jit/jit_base.css" rel="stylesheet" />
+<link type="text/css" href="js/plugins/jit/jit_Spacetree.css" rel="stylesheet" />
+
+<!--SDExplorer-->
+<!-- <script type="text/javascript" src="js/plugins/sdexplorer/SDExplorer.js"></script> -->
+<!--Microsoft live-->
+<!-- <script src="//js.live.net/v5.0/wl.js"></script> -->
+
+<!--swipebox-->
+<script src="js/plugins/swipebox/jquery.swipebox.min.js"></script>
+<link rel="stylesheet" href="js/plugins/swipebox/swipebox.css">
+
+<!--getImageData proxy for images-->
+<script src="js/plugins/getImageData/jquery.getimagedata.min.js"></script>
+
+<!--custom scripts-->
+<script type="text/javascript" src="js/dataController.js"></script>
+<script type="text/javascript" src="js/uiContentController.js"></script>
+<script type="text/javascript" src="js/UiStartView.js"></script>
+<script type="text/javascript" src="js/GAEController.js"></script>
+<script type="text/javascript" src="js/XMLDataController.js"></script>
+<script type="text/javascript" src="js/GedcomDataController.js"></script>
+<script type="text/javascript" src="js/uiTreeController.js"></script>
+<script type="text/javascript" src="js/uiListController.js"></script>
+<script type="text/javascript" src="js/uiPersonController.js"></script>
+<script type="text/javascript" src="js/uiFamilyController.js"></script>
+
+<script type="text/javascript" src="js/controller.js"></script>
+
+<!-- cordova -->
+<script type="text/javascript" src="cordova.js"></script>
+
+<script type="text/javascript">
+	var ctr;
+	$(document).on('pagebeforecreate', function(event) {
+	});
+	$(document).ready(function() {
+	});
+</script>
+
+
+</head>
+<body>
+
+	<!--start page-->
+	<div data-role="page" id="startPage" data-add-back-btn="false">
+		<div role="main" class="ui-content"><canvas id="myCanvas" width="578" height="200"></canvas></div>
+	</div>
+
+	<!--persist data page-->
+	<div data-role="page" id="persistDataPage" data-add-back-btn="false">
+		<div role="main" class="ui-content"></div>
+	</div>
+
+	<!--contact page-->
+	<div data-role="page" id="contactPage" data-add-back-btn="true">
+		<div role="main" class="ui-content"></div>
+	</div>
+
+	<!--dialog page-->
+	<div data-role="page" id="dialogPage" data-add-back-btn="true">
+		<div role="main" class="ui-content"></div>
+	</div>
+
+	<!--list page-->
+	<div data-role="page" id="listPage"	data-add-back-btn="true">
+		<div role="main" class="ui-content">
+			<ul id="personLV" data-role="listview" data-filter="true" data-inset="true" data-filter-placeholder="Search..."></ul>
+		</div>
+	</div>
+
+	<!--person page-->
+	<div data-role="page" id="personPage" data-add-back-btn="true">
+		<div role="main" class="ui-content"><div id="personContainer"></div></div>
+	</div>
+
+	<!--tree page-->
+	<div data-role="page" id="treePage" data-add-back-btn="true">
+		<div role="main" class="ui-content"></div>
+		<div data-role="panel" id="treeConfigPanel" data-position="right" data-display="overlay"></div>
+		<div data-role="popup" id="treeNodePopup"></div>
+	</div>
+
+	<!--tree print page-->
+	<div data-role="page" id="treePrintPage" data-add-back-btn="true">
+		<div role="main" class="ui-content"></div>
+	</div>
+
+	<!--family page-->
+	<div data-role="page" id="familyPage" data-add-back-btn="true">
+		<div role="main" class="ui-content"></div>
+	</div>
+
+</body>
+</html>
+
+<script type="text/javascript">
+	ctr = new Controller();
+	ctr.init();
+</script>
+

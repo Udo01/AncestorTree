@@ -1,0 +1,1171 @@
+<gedx>
+	<header>
+		<fileCreation>
+			<Date year="" month="" day="" />
+		</fileCreation>
+		<lastChanged>
+			<date year="" month="" day="" />
+		</lastChanged>
+		<product>
+			<productId>GEDX</productId>
+			<version>1.0</version>
+			<name>GEDX</name>
+			<supplier>
+				<link ref="0815" target="Contact" />
+			</supplier>
+		</product>
+		<copyright>(C) 2007 RudiSoft</copyright>
+	</header>
+	<persons>
+		<person id="I1" gender="m">
+			<name givn="Joseph Patrick" surn="KENNEDY" />
+		</person>
+		<person id="I2" gender="f">
+			<name givn="Rose" surn="FITZGERALD" />
+		</person>
+		<person id="I3" gender="m">
+			<name givn="Joseph Patrick" surn="KENNEDY" />
+		</person>
+		<person id="I4" gender="f">
+			<name givn="Rosemary" surn="KENNEDY" />
+		</person>
+		<person id="I5" gender="m">
+			<name givn="William John Robert" surn="CAVENDISH" />
+		</person>
+		<person id="I6" gender="f">
+			<name givn="Kathleen" surn="KENNEDY" />
+		</person>
+		<person id="I7" gender="m">
+			<name givn="Robert Sargent" surn="SHRIVER" />
+		</person>
+		<person id="I8" gender="f">
+			<name givn="Eunice Mary" surn="KENNEDY" />
+		</person>
+		<person id="I9" gender="m">
+			<name givn="Robert Sargent" surn="SHRIVER" />
+		</person>
+		<person id="I10" gender="m">
+			<name givn="Arnold" surn="SCHWARZENEGGER" />
+		</person>
+		<person id="I11" gender="f">
+			<name givn="Maria" surn="SHRIVER" />
+		</person>
+		<person id="I12" gender="m">
+			<name givn="Timothy" surn="SHRIVER" />
+		</person>
+		<person id="I13" gender="m">
+			<name givn="Mark Kennedy" surn="SHRIVER" />
+		</person>
+		<person id="I14" gender="m">
+			<name givn="Anthony Paul" surn="SHRIVER" />
+		</person>
+		<person id="I15" gender="m">
+			<name givn="Peter" surn="LAWFORD" />
+		</person>
+		<person id="I16" gender="f">
+			<name givn="Patricia" surn="KENNEDY" />
+		</person>
+		<person id="I17" gender="m">
+			<name givn="Christopher" surn="LAWFORD" />
+		</person>
+		<person id="I18" gender="f">
+			<name givn="Victoria" surn="LAWFORD" />
+		</person>
+		<person id="I19" gender="f">
+			<name givn="Sydney" surn="LAWFORD" />
+		</person>
+		<person id="I20" gender="f">
+			<name givn="Robin" surn="LAWFORD" />
+		</person>
+		<person id="I21" gender="m">
+			<name givn="Robert Francis" surn="KENNEDY" />
+		</person>
+		<person id="I22" gender="f">
+			<name givn="Ethel" surn="SKAKEL" />
+		</person>
+		<person id="I23" gender="f">
+			<name givn="Kathleen Hartington" surn="KENNEDY" />
+		</person>
+		<person id="I24" gender="m">
+			<name givn="Joseph Patrick" surn="KENNEDY" />
+		</person>
+		<person id="I25" gender="m">
+			<name givn="Robert Francis" surn="KENNEDY" />
+		</person>
+		<person id="I26" gender="m">
+			<name givn="David Anthony" surn="KENNEDY" />
+		</person>
+		<person id="I27" gender="f">
+			<name givn="Mary Courtney" surn="KENNEDY" />
+		</person>
+		<person id="I28" gender="m">
+			<name givn="Michael L." surn="KENNEDY" />
+		</person>
+		<person id="I29" gender="f">
+			<name givn="Mary Kerry" surn="KENNEDY" />
+		</person>
+		<person id="I30" gender="m">
+			<name givn="Christopher George" surn="KENNEDY" />
+		</person>
+		<person id="I31" gender="m">
+			<name givn="Matthew Maxwell Taylor" surn="KENNEDY" />
+		</person>
+		<person id="I32" gender="m">
+			<name givn="Douglas Harriman" surn="KENNEDY" />
+		</person>
+		<person id="I33" gender="f">
+			<name givn="Rory Elizabeth" surn="KENNEDY" />
+		</person>
+		<person id="I34" gender="m">
+			<name givn="Stephen Edward" surn="SMITH" />
+		</person>
+		<person id="I35" gender="f">
+			<name givn="Jean Ann" surn="KENNEDY" />
+		</person>
+		<person id="I36" gender="m">
+			<name givn="Stephen" surn="SMITH" />
+		</person>
+		<person id="I37" gender="m">
+			<name givn="William Kennedy" surn="SMITH" />
+		</person>
+		<person id="I38" gender="f">
+			<name givn="Amanda" surn="SMITH" />
+		</person>
+		<person id="I39" gender="m">
+			<name givn="Edward Moore" surn="KENNEDY" />
+		</person>
+		<person id="I40" gender="f">
+			<name givn="Virginia Joan" surn="BENNETT" />
+		</person>
+		<person id="I41" gender="f">
+			<name givn="Kara Ann" surn="KENNEDY" />
+		</person>
+		<person id="I42" gender="m">
+			<name givn="Edward More" surn="KENNEDY" />
+		</person>
+		<person id="I43" gender="m">
+			<name givn="Patrick Joseph" surn="KENNEDY" />
+		</person>
+		<person id="I44" gender="m">
+			<name givn="Patrick Joseph" surn="KENNEDY" />
+		</person>
+		<person id="I45" gender="f">
+			<name givn="Mary Augusta" surn="HICKEY" />
+		</person>
+		<person id="I46" gender="m">
+			<name givn="Patrick" surn="KENNEDY" />
+		</person>
+		<person id="I47" gender="f">
+			<name givn="Bridget" surn="MURPHY" />
+		</person>
+		<person id="I48" gender="m">
+			<name givn="John Vernou" surn="BOUVIER" />
+		</person>
+		<person id="I49" gender="f">
+			<name givn="Janet" surn="LEE" />
+		</person>
+		<person id="I50" gender="m">
+			<name givn="John F." surn="FITZGERALD" />
+		</person>
+		<person id="I51" gender="f">
+			<name givn="Josephine Mary" surn="HANNON" />
+		</person>
+		<person id="I52" gender="m">
+			<name givn="John Fitzgerald" surn="KENNEDY" />
+		</person>
+		<person id="I53" gender="f">
+			<name givn="Jacqueline" surn="BOUVIER" />
+		</person>
+		<person id="I54" gender="f">
+			<name givn="Caroline Bouvier" surn="KENNEDY" />
+		</person>
+		<person id="I55" gender="m">
+			<name givn="John Fitzgerald" surn="KENNEDY" />
+		</person>
+		<person id="I56" gender="m">
+			<name givn="Patrick Bouvier" surn="KENNEDY" />
+		</person>
+		<person id="I57" gender="f">
+			<name givn="Margaret" surn="KENNEDY" />
+		</person>
+		<person id="I58" gender="m">
+			<name givn="Charles" surn="BURKE" />
+		</person>
+		<person id="I59" gender="m">
+			<name givn="Aristotle" surn="ONASSIS" />
+		</person>
+		<person id="I60" gender="f">
+			<name givn="Mary" surn="KENNEDY" />
+		</person>
+		<person id="I61" gender="f">
+			<name givn="Johanna" surn="KENNEDY" />
+		</person>
+		<person id="I62" gender="m">
+			<name givn="John" surn="KENNEDY" />
+		</person>
+		<person id="I63" gender="f">
+			<name givn="Margaret" surn="KENNEDY" />
+		</person>
+		<person id="I64" gender="m">
+			<name givn="Humphrey" surn="MAHONEY" />
+		</person>
+		<person id="I65" gender="m">
+			<name givn="John T." surn="CAULFIELD" />
+		</person>
+		<person id="I66" gender="m">
+			<name givn="Laurence" surn="KANE" />
+		</person>
+		<person id="I67" gender="f">
+			<name givn="Loretta" surn="KENNEDY" />
+		</person>
+		<person id="I68" gender="f">
+			<name givn="Lee" surn="BOUVIER" />
+		</person>
+		<person id="I69" gender="m">
+			<name givn="Hugh" surn="ACHINCLOSS" />
+		</person>
+	</persons>
+	<events>
+		<event type="birth">
+			<personref>I1</personref>
+			<date day="6" month="9" year="1888" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I2</personref>
+			<date day="22" month="7" year="1890" />
+			<place region="" zip="" street="" city=" North End" country="MA" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I3</personref>
+			<date day="JUL" month="" year="" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I4</personref>
+			<date day="SEP" month="" year="" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I5</personref>
+			<date day="10" month="12" year="1917" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I6</personref>
+			<date day=" " month=" " year="1920" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I7</personref>
+			<date day="9" month="11" year="1915" />
+			<place region="" zip="" street="" city=" Westminster" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I8</personref>
+			<date day="JUL" month="" year="" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I9</personref>
+			<date day=" " month=" " year="1954" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I10</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I11</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I12</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I13</personref>
+			<date day="FEB" month="" year="" />
+			<place region="" zip="" street="" city=" Washington" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I14</personref>
+			<date day="20" month="7" year="1965" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I15</personref>
+			<date day="7" month="9" year="1923" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I16</personref>
+			<date day="6" month="5" year="1924" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I17</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I18</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I19</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I20</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I21</personref>
+			<date day="20" month="11" year="1925" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I22</personref>
+			<date day=" " month=" " year="1928" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I23</personref>
+			<date day="4" month="7" year="1951" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I24</personref>
+			<date day=" " month=" " year="1952" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I25</personref>
+			<date day=" " month=" " year="1953" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I26</personref>
+			<date day=" " month=" " year="1954" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I27</personref>
+			<date day=" " month=" " year="1955" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I28</personref>
+			<date day=" " month=" " year="1957" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I29</personref>
+			<date day=" " month=" " year="1958" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I30</personref>
+			<date day="4" month="6" year="1963" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I31</personref>
+			<date day="9" month="1" year="1965" />
+			<place region="" zip="" street="" city=" " country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I32</personref>
+			<date day="24" month="3" year="1967" />
+			<place region="" zip="" street="" city=" Washington" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I33</personref>
+			<date day="12" month="12" year="1968" />
+			<place region="" zip="" street="" city=" Washington" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I34</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I35</personref>
+			<date day="FEB" month="" year="" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I36</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I37</personref>
+			<date day="SEP" month="" year="" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I38</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I39</personref>
+			<date day="22" month="2" year="1932" />
+			<place region="" zip="" street="" city=" Brookline" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I40</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I41</personref>
+			<date day="MAR" month="" year="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I42</personref>
+			<date day="26" month="9" year="1961" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I43</personref>
+			<date day="AUG" month="" year="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I44</personref>
+			<date day="14" month="1" year="1858" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I45</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I46</personref>
+			<date day=" " month=" " year="1823" />
+			<place region="" zip="" street="" city=" Dunganstown" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I47</personref>
+			<date day=" " month=" " year="1821" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I48</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I49</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I50</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I51</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I52</personref>
+			<date day="29" month="5" year="1917" />
+			<place region="" zip="" street="" city=" Brookline" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I53</personref>
+			<date day="28" month="7" year="1929" />
+			<place region="" zip="" street="" city=" Southampton" country="NY" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I54</personref>
+			<date day="27" month="11" year="1957" />
+			<place region="" zip="" street="" city=" " country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I55</personref>
+			<date day="25" month="11" year="1960" />
+			<place region="" zip="" street="" city=" Washington" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I56</personref>
+			<date day="7" month="8" year="1963" />
+			<place region="" zip="" street="" city=" Otis Air Force B"
+				country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I57</personref>
+			<date day=" " month=" " year="1898" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I58</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I59</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I60</personref>
+			<date day="9" month="8" year="1851" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I61</personref>
+			<date day="4" month="12" year="1852" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I62</personref>
+			<date day="4" month="1" year="1854" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I63</personref>
+			<date day="18" month="7" year="1855" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I64</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I65</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I66</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I67</personref>
+			<date day=" " month=" " year="1892" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I68</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="birth">
+			<personref>I69</personref>
+			<date year="" month="" day="" />
+			<place country="" city="" region="" zip="" street="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I1</personref>
+			<date day="18" month="11" year="1969" />
+			<place region="" zip="" street="" city=" Hyannis Port" country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I2</personref>
+			<date day="22" month="1" year="1995" />
+			<place region="" zip="" street="" city=" Hyannis Port" country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I3</personref>
+			<date day="2" month="8" year="1944" />
+			<place region="" zip="" street="" city=" Suffolk" country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I5</personref>
+			<date day="10" month="9" year="1944" />
+			<place region="" zip="" street="" city=" " country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I6</personref>
+			<date day="13" month="5" year="1948" />
+			<place region="" zip="" street="" city=" " country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I21</personref>
+			<date day="6" month="6" year="1968" />
+			<place region="" zip="" street="" city=" Los Angeles" country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I44</personref>
+			<date day="MAY" month="" year="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I45</personref>
+			<date day=" " month=" " year="1923" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I46</personref>
+			<date day="22" month="11" year="1858" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I47</personref>
+			<date day="20" month="12" year="1888" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I48</personref>
+			<date day="AUG" month="" year="" />
+			<place region="" zip="" street="" city=" Lennox Hill Hosp."
+				country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I52</personref>
+			<date day="22" month="11" year="1963" />
+			<place region="" zip="" street="" city=" Dallas" country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I53</personref>
+			<date day="19" month="5" year="1994" />
+			<place region="" zip="" street="" city=" NYC" country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I56</personref>
+			<date day="9" month="8" year="1963" />
+			<place region="" zip="" street="" city=" Boston" country="" />
+			<text />
+		</event>
+		<event type="death">
+			<personref>I62</personref>
+			<date day="24" month="9" year="1855" />
+			<text />
+		</event>
+	</events>
+	<infos>
+		<info type="other">
+			<personref>I1</personref>
+			<text>From the time he was a school boy he was interested in making
+				money.</text>
+		</info>
+		<info type="other">
+			<personref>I1</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I1</personref>
+			<text>He had an interesting hobby of tinkering with clocks.</text>
+		</info>
+		<info type="other">
+			<personref>I1</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I1</personref>
+			<text>Joe was a poor student, but good at athletics and had an
+				attractive personality. He was able to overcome many ethnic barriers
+				during his school years at Boston Latin, a protestant and primarily
+				Yankee school.</text>
+		</info>
+		<info type="other">
+			<personref>I1</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I1</personref>
+			<text>Was one of the youngest Bank Presidents in US history.</text>
+		</info>
+		<info type="other">
+			<personref>I1</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I1</personref>
+			<text>He was fiercely proud of his family. He was quoted as having
+				said his family was the finest thing in his life.</text>
+		</info>
+		<info type="other">
+			<personref>I2</personref>
+			<text>She was considered the flower of Boston Irish society.</text>
+		</info>
+		<info type="other">
+			<personref>I2</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I2</personref>
+			<text>She graduated from high school, one of the three highest in a
+				class of 285. She was then sent to finish school in Europe for two
+				years.</text>
+		</info>
+		<info type="other">
+			<personref>I2</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I2</personref>
+			<text>She was courted by some of the finest young men, not only
+				Boston's Irish, but members of the English nobility as well.</text>
+		</info>
+		<info type="other">
+			<personref>I2</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I2</personref>
+			<text>She was very dedicated to her family, which was evident by the
+				strong support she gave her sons in their political campaigns.
+			</text>
+		</info>
+		<info type="other">
+			<personref>I3</personref>
+			<text>Joseph Patrick was well liked, quick to smile, and had a
+				tremendous dose of Irish charm.</text>
+		</info>
+		<info type="other">
+			<personref>I3</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I3</personref>
+			<text>He enlisted in the Navy during World War II, and died during a
+				naval flight.</text>
+		</info>
+		<info type="other">
+			<personref>I3</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I3</personref>
+			<text>He was known as Jack.</text>
+		</info>
+		<info type="other">
+			<personref>I4</personref>
+			<text>She was born severely mentally retarded. For years her parents
+				were ashamed of her and never told anyone about her problems.</text>
+		</info>
+		<info type="other">
+			<personref>I4</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I4</personref>
+			<text>In 1946 her father gave $600,000 for the construction of the
+				Joseph P. Kennedy Jr. Convalescent Home for disadvantaged children,
+				because of Rosemary's condition.</text>
+		</info>
+		<info type="other">
+			<personref>I6</personref>
+			<text>Died in an airplane crash with her lover in France three years
+				after her older brother Joseph's death.</text>
+		</info>
+		<info type="other">
+			<personref>I6</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I6</personref>
+			<text>Served with the Red Cross in England during the war.</text>
+		</info>
+		<info type="other">
+			<personref>I7</personref>
+			<text>1972 was the vice presidential candidate.</text>
+		</info>
+		<info type="other">
+			<personref>I8</personref>
+			<text>She helped in the many political campaigns of her brother, John
+				Fitzgerald.</text>
+		</info>
+		<info type="other">
+			<personref>I8</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I8</personref>
+			<text>She ran a summer home for retarded children.</text>
+		</info>
+		<info type="other">
+			<personref>I8</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I8</personref>
+			<text>After her mother, Eunice was considered the family's model
+				woman.</text>
+		</info>
+		<info type="other">
+			<personref>I16</personref>
+			<text>Was a help to her brother John F. during his political
+				campaigns.</text>
+		</info>
+		<info type="other">
+			<personref>I21</personref>
+			<text>Robert Francis was assassinated in California during his 1968
+				presidential campaign.</text>
+		</info>
+		<info type="other">
+			<personref>I21</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I21</personref>
+			<text>He was very dedicated to his children and every evening had
+				prayers with them, each of them saying the Rosary.</text>
+		</info>
+		<info type="other">
+			<personref>I39</personref>
+			<text>Enlisted in the Navy during World War II.</text>
+		</info>
+		<info type="other">
+			<personref>I39</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I39</personref>
+			<text>Was known as "Teddy".</text>
+		</info>
+		<info type="other">
+			<personref>I44</personref>
+			<text>As a young man, Patrick dropped out of school to work on the
+				docks of Boston.</text>
+		</info>
+		<info type="other">
+			<personref>I44</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I44</personref>
+			<text>Patrick was able to work his way from being a SaloonKeeper to
+				becoming a Ward Boss, helping out other Irish immigrants. His
+				popularity rose and at the age of thirty he had become a power in
+				Boston politics. In 1892 and 1893 he was elected tothe Massachusetts
+				Senate.</text>
+		</info>
+		<info type="other">
+			<personref>I44</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I44</personref>
+			<text>Patrick later became a very successful businessman getting into
+				wholesale liquor sales, owning a coal company and becoming the
+				president of a bank.</text>
+		</info>
+		<info type="other">
+			<personref>I44</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I44</personref>
+			<text>His personality was mild-mannered, quiet and reserved, and he
+				was viewed as a man of moderate habits.</text>
+		</info>
+		<info type="other">
+			<personref>I46</personref>
+			<text>The potato famine of 1845-48, plagued the country of Ireland
+				and pushed many Irishmen to flee to the land of promise, the USA.
+				Patrick Kennedy was among those to leave his home in Wexford County,
+				Ireland, in 1848, in hopes of finding a betterlife in the US. Once
+				he arrived in the US, he settled in East Boston, where he remained
+				for the rest of his life.</text>
+		</info>
+		<info type="other">
+			<personref>I46</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I46</personref>
+			<text>Upon Patrick's arrival in Boston, he immediately became
+				involved in politics. He was known as a Ward Boss in Boston, looking
+				out for the other Irish immigrants and trying to improve the
+				conditions in the community.</text>
+		</info>
+		<info type="other">
+			<personref>I47</personref>
+			<text>After her husband died, she opened up a "Notions Shop" to
+				provide for her family.</text>
+		</info>
+		<info type="other">
+			<personref>I48</personref>
+			<text>He was known as "Black Jack."</text>
+		</info>
+		<info type="other">
+			<personref>I48</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I48</personref>
+			<text>He was known to drink alcohol excessively.</text>
+		</info>
+		<info type="other">
+			<personref>I50</personref>
+			<text>He was known as "Honey Fitz".</text>
+		</info>
+		<info type="other">
+			<personref>I52</personref>
+			<text>&lt;img
+				src="http://www.jacqueslowe.com/html/photographs/jfk/images/jfkp52bw.jpg"
+				border=1&gt;</text>
+		</info>
+		<info type="other">
+			<personref>I52</personref>
+			<text>In 1960 he became President of the United States.</text>
+		</info>
+		<info type="other">
+			<personref>I52</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I52</personref>
+			<text>He wrote 2 books, including "Profiles in Courage", which won
+				him a Pulitzer Prize.</text>
+		</info>
+		<info type="other">
+			<personref>I52</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I52</personref>
+			<text>He had personal finances that were estimated to be around $10
+				million while in the Presidency.</text>
+		</info>
+		<info type="other">
+			<personref>I52</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I52</personref>
+			<text>He was assassinated in Dallas, TX.</text>
+		</info>
+		<info type="other">
+			<personref>I53</personref>
+			<text>&lt;img
+				src="http://www.jacqueslowe.com/html/photographs/jackie/images/Jacky01bw.jpg"
+				border=1&gt;</text>
+		</info>
+		<info type="other">
+			<personref>I53</personref>
+			<text>Before marrying JFK, Jackie worked as a photo journalist in
+				Washington DC.</text>
+		</info>
+		<info type="other">
+			<personref>I53</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I53</personref>
+			<text>While dating JFK, Jackie did not want him to know that she was
+				not rich and think that she was only marrying him for his money. So,
+				she went to great lengths to appear rich.</text>
+		</info>
+		<info type="other">
+			<personref>I53</personref>
+			<text />
+		</info>
+		<info type="other">
+			<personref>I53</personref>
+			<text>She was said to be the only First Lady to resemble royalty. She
+				shunned the media and never publicly discussed the assassination of
+				JFK, how she felt about it, or the alleged affairs of her first
+				husband.</text>
+		</info>
+	</infos>
+	<relationships>
+		<relationship type="biological">
+			<father idref="I1" />
+			<mother idref="I2" />
+			<child idref="I3" />
+			<child idref="I52" />
+			<child idref="I4" />
+			<child idref="I6" />
+			<child idref="I8" />
+			<child idref="I16" />
+			<child idref="I21" />
+			<child idref="I35" />
+			<child idref="I39" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I5" />
+			<mother idref="I6" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I7" />
+			<mother idref="I8" />
+			<child idref="I9" />
+			<child idref="I11" />
+			<child idref="I12" />
+			<child idref="I13" />
+			<child idref="I14" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I10" />
+			<mother idref="I11" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I15" />
+			<mother idref="I16" />
+			<child idref="I17" />
+			<child idref="I18" />
+			<child idref="I19" />
+			<child idref="I20" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I21" />
+			<mother idref="I22" />
+			<child idref="I23" />
+			<child idref="I24" />
+			<child idref="I25" />
+			<child idref="I26" />
+			<child idref="I27" />
+			<child idref="I28" />
+			<child idref="I29" />
+			<child idref="I30" />
+			<child idref="I31" />
+			<child idref="I32" />
+			<child idref="I33" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I34" />
+			<mother idref="I35" />
+			<child idref="I36" />
+			<child idref="I37" />
+			<child idref="I38" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I39" />
+			<mother idref="I40" />
+			<child idref="I41" />
+			<child idref="I42" />
+			<child idref="I43" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I44" />
+			<mother idref="I45" />
+			<child idref="I1" />
+			<child idref="I67" />
+			<child idref="I57" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I46" />
+			<mother idref="I47" />
+			<child idref="I60" />
+			<child idref="I61" />
+			<child idref="I62" />
+			<child idref="I63" />
+			<child idref="I44" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I48" />
+			<mother idref="I49" />
+			<child idref="I53" />
+			<child idref="I68" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I50" />
+			<mother idref="I51" />
+			<child idref="I2" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I52" />
+			<mother idref="I53" />
+			<child idref="I54" />
+			<child idref="I55" />
+			<child idref="I56" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I58" />
+			<mother idref="I57" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I59" />
+			<mother idref="I53" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I66" />
+			<mother idref="I60" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I64" />
+			<mother idref="I61" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I65" />
+			<mother idref="I63" />
+		</relationship>
+		<relationship type="biological">
+			<father idref="I69" />
+			<mother idref="I49" />
+		</relationship>
+	</relationships>
+</gedx>
