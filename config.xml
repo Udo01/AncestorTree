@@ -1,31 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-    <widget xmlns   = "http://www.w3.org/ns/widgets"
-    xmlns:gap   = "http://phonegap.com/ns/1.0"
-    xmlns:android   = "http://schemas.android.com/apk/res/android"
-    id          = "com.phonegap.example"
-    versionCode = "10" 
-    version     = "1.0.0" >
-
-    <!-- versionCode is optional and Android only -->
-
-    <name>Ancestor Tree</name>
-
-    <description>
-      Create and show great ancestor trees
-    </description>
-
-    <author href="https://build.phonegap.com/apps/1232580/builds" email="ud.lang@gmx.net">
-      Udo lang 
-    </author>
-
-<icon src="icon.png" />
-
-<gap:splash src="splash.png" />
-
-<feature name="http://api.phonegap.com/1.0/network" />
-
-<gap:plugin name="org.apache.cordova.inappbrowser" />
-
-<access origin="*" subdomains="true" />
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:vs="http://schemas.microsoft.com/appx/2014/htmlapps" id="io.cordova.AncestorTreeApp" version="1.0.0.0" xmlns="http://www.w3.org/ns/widgets">
+  <name>AncestorTreeApp</name>
+  <description>Generate and display great ancestor trees</description>
+  <author href="http://cordova.io" email="dev@cordova.apache.org">Udo Lang</author>
+  <content src="index.html" />
+  <access origin="*" />
+  <preference name="SplashScreen" value="screen" />
+  <preference name="windows-target-version" value="8.0" />
+  <preference name="windows-phone-target-version" value="8.1" />
+  <vs:plugin name="org.apache.cordova.inappbrowser" version="0.5.2" />
+  <vs:platformSpecificValues />
 </widget>
