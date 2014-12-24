@@ -21,7 +21,7 @@ var labelType, useGradients, nativeTextSupport, animate;
 
 
 
-uiTreeController = function (container) {
+uiTreeController = function (container,device,domain) {
 	this.config = {
 			infovisWrapper:'infovisWrapper',
 			infovisContainer:'infovis',
@@ -56,6 +56,15 @@ uiTreeController = function (container) {
 	}
 	this.version = "1.0";
 	this.container = container;
+    this.device = device;
+    this.domain = domain;
+    this.imageservice;
+    if (this.device == "app") {
+        this.imageservice= this.domain+"/imageservice";
+    }
+    if (this.device == "web") {
+        this.imageservice = "/imageservice";
+    }
 	this.scroller=null;
 	thisTreeCtr=this;
 	this.initPage();
@@ -336,7 +345,7 @@ uiTreeController.prototype.loadImages=function(){
 	st.graph.eachNode(function(node) {
         
         var portraitpicture=node.data.portraitpicture;
-        var id=node.id; 
+            var id=node.id;
         if( portraitpicture != "" && thisTreeCtr.getImage(node.id)==null ){
         	var img = new Image();
             img.addEventListener('load', function(){
@@ -345,7 +354,7 @@ uiTreeController.prototype.loadImages=function(){
                     		img:img
             	});
             }, false);
-            img.src="imageservice?img="+ encodeURIComponent(portraitpicture)+"&t="+thisTreeCtr.config.imageResolution;
+            img.src=thisTreeCtr.imageservice+"?img="+ encodeURIComponent(portraitpicture)+"&t="+thisTreeCtr.config.imageResolution;
         }
         });	
 }

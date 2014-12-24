@@ -9,7 +9,7 @@ function dataController()
 		    async:false
 		  })
 		  .success(function(result) { 
-		        ctr.appConfig=$.parseXML('<xml></xml>');
+                ctr.appConfig=$.parseXML('<xml></xml>');
 		    	$(ctr.appConfig).find("xml").append($(result));
 		        isLoaded=true;
 		        })
@@ -1031,8 +1031,8 @@ this.getPageResource=function(pageName,pageItem,langISO)
 }
 //app paramter
 Controller.prototype.getAppSetting = function(settingName) {
-	var setting=$(ctr.appConfig).find("setting[name='"+settingName+"']").text();
-    return setting;
+    var setting =$(ctr.appConfig).find("setting[name='"+settingName+"']").text();
+            return setting;
 }
 
 //UID

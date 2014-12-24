@@ -14,6 +14,8 @@ Controller = function() {
 
 	// browser
 	this.browser = {};
+	this.device = null;
+	this.domain =null;
 
 	// contoller
 	this.dataCtr = null;
@@ -40,23 +42,26 @@ Controller = function() {
 		
 		this.langISO = "de";
 		this.setBrowser();
-		//load data controller
+        //load data controller
 		this.dataCtr = new dataController();
 		
 		//load config
 		this.dataCtr.loadAppConfig(this.configPath);
 		this.dataCtr.loadSettings(this.settingsPath)
-
+        
+	    //load config parameter
+		this.device = this.getAppSetting("device");
+		this.domain=this.getAppSetting("domain");
 		//init controlls
 		this.uiContentCtr = new uiContentController();
 		this.uiStartView = new UiStartView($("#startPage"));
-		this.gAEDataController=new GAEDataController($("#persistDataPage"));
+		this.gAEDataController=new GAEDataController($("#persistDataPage"),this.device,this.domain);
 		this.xMLDataController=new XMLDataController($("#persistDataPage"));
 		this.gedcomDataController=new GedcomDataController($("#persistDataPage"));
 		this.uiListCtr = new uiListController($("#listPage"));
 		this.uiPersonCtr = new uiPersonController($("#personPage"));
 		this.uiFamCtr = new uiFamCtr($("#familyPage"));
-		this.uiTreeCtr = new uiTreeController($("#treePage"));
+		this.uiTreeCtr = new uiTreeController($("#treePage"),this.device,this.domain);
 
 		//this.uiContentCtr.addTreePrintPage($("#treePrintPage"));
 		//this.uiContentCtr.addContactPage($("#contactPage"));
@@ -629,8 +634,7 @@ Controller = function() {
 	}
 	
 	Controller.prototype.getAppSetting=function(settingName){
-		return this.dataCtr.getAppSetting(settingName);
-
+                return this.dataCtr.getAppSetting(settingName);
 	}
 	
 	Controller.prototype.blockUI = function() {
